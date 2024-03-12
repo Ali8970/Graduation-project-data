@@ -144,12 +144,12 @@
     "rating": 5
   },
   {
-    "name": "dog food3",
-    "description": "aaaaaaaaaaaaaaaaaaa",
+    "name": "dog food7",
+    "description": "aaaaaaaaaaaaaaaaasdsssssssssaaa",
     "inventoryStatus": "instock",
-    "category": "Accessories",
+    "category": "Clothing",
     "price": 22,
-    "quantity": 22,
+    "quantity": 25,
     "id": "4X99U",
     "code": "vxbFL",
     "image": "product-placeholder.jpg"
