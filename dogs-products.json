@@ -153,5 +153,16 @@
     "id": "4X99U",
     "code": "vxbFL",
     "image": "product-placeholder.jpg"
+  },
+  {
+    "name": "dog food2",
+    "description": "sssssssss",
+    "inventoryStatus": "instock",
+    "category": "Fitness",
+    "price": 222,
+    "quantity": 222,
+    "id": "LeZiA",
+    "code": "NRZpB",
+    "image": "product-placeholder.jpg"
   }
 ]
