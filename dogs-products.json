@@ -142,5 +142,6 @@
     "quantity": 50,
     "inventoryStatus": "INSTOCK",
     "rating": 5
-  }
+  },
+  null
 ]
