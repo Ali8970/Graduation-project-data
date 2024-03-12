@@ -153,5 +153,16 @@
     "id": "h98NC",
     "code": "cdB0K",
     "image": "product-placeholder.jpg"
+  },
+  {
+    "name": "Tomatoe",
+    "description": "qwqeqwer",
+    "inventoryStatus": "instock",
+    "category": "Fitness",
+    "price": 3,
+    "quantity": 3,
+    "id": "2vNyP",
+    "code": "jaAyf",
+    "image": "product-placeholder.jpg"
   }
 ]
