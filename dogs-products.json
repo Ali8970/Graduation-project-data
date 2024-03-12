@@ -144,17 +144,6 @@
     "rating": 5
   },
   {
-    "name": "dog food7",
-    "description": "aaaaaaaaaaaaaaaaasdsssssssssaaa",
-    "inventoryStatus": "instock",
-    "category": "Clothing",
-    "price": 22,
-    "quantity": 25,
-    "id": "4X99U",
-    "code": "vxbFL",
-    "image": "product-placeholder.jpg"
-  },
-  {
     "name": "dog food2",
     "description": "sssssssss",
     "inventoryStatus": "instock",
