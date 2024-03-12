@@ -142,5 +142,16 @@
     "quantity": 50,
     "inventoryStatus": "INSTOCK",
     "rating": 5
+  },
+  {
+    "name": "dog food1",
+    "description": "aaaaaaaaaaaaaaaaaaa",
+    "inventoryStatus": "instock",
+    "category": "Accessories",
+    "price": 22,
+    "quantity": 22,
+    "id": "4X99U",
+    "code": "vxbFL",
+    "image": "product-placeholder.jpg"
   }
 ]
