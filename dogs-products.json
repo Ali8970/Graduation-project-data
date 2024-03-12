@@ -143,15 +143,4 @@
     "inventoryStatus": "INSTOCK",
     "rating": 5
   },
-  {
-    "name": "sdewddddddddddddddd",
-    "description": "wwwwwwwwwwqqqqqqqqqqqqqqqq",
-    "inventoryStatus": "instock",
-    "category": "Fitness",
-    "price": 21,
-    "quantity": 3,
-    "id": "MECzH",
-    "code": "OPqIl",
-    "image": "product-placeholder.svg"
-  },
 ]
