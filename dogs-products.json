@@ -142,16 +142,5 @@
     "quantity": 50,
     "inventoryStatus": "INSTOCK",
     "rating": 5
-  },
-  {
-    "name": "dog food2",
-    "description": "sssssssss",
-    "inventoryStatus": "instock",
-    "category": "Fitness",
-    "price": 222,
-    "quantity": 222,
-    "id": "LeZiA",
-    "code": "NRZpB",
-    "image": "product-placeholder.jpg"
   }
 ]
