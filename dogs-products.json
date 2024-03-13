@@ -156,16 +156,6 @@
   },
   {
     "name": "Tomatoe",
-    "description": "asdasffs",
-    "inventoryStatus": "instock",
-    "category": "Foods",
-    "price": 232,
-    "quantity": 23,
-    "id": "2ptwf",
-    "code": "01RSC"
-  },
-  {
-    "name": "Tomatoe",
     "description": "werewrewre",
     "inventoryStatus": "instock",
     "category": "Foods",
