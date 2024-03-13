@@ -94,16 +94,5 @@
     "quantity": 70,
     "inventoryStatus": "INSTOCK",
     "rating": 5
-  },
-  {
-    "name": "ca",
-    "description": "gserwt",
-    "inventoryStatus": "instock",
-    "category": "Accessories",
-    "price": 231,
-    "quantity": 123,
-    "id": "Rs7nf",
-    "code": "ungm6",
-    "image": "product-placeholder.jpg"
   }
 ]
