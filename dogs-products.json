@@ -162,5 +162,16 @@
     "code": "UlNss",
     "image": "product-placeholder.jpg",
     "inventoryStatus": "INSTOCK"
+  },
+  {
+    "name": "dog1",
+    "description": "asdasdas",
+    "inventoryStatus": "lowstock",
+    "category": "Foods",
+    "price": 1222,
+    "quantity": 11,
+    "id": "pgpNA",
+    "code": "R4mTj",
+    "image": "product-placeholder.jpg"
   }
 ]
