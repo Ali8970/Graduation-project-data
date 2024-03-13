@@ -142,16 +142,5 @@
     "quantity": 50,
     "inventoryStatus": "INSTOCK",
     "rating": 5
-  },
-  {
-    "name": "zzzzz",
-    "image": "51GZl6ipvyL._AC_SY879_.jpg",
-    "description": "asdsdasds",
-    "inventoryStatus": "instock",
-    "category": "Homes",
-    "price": 213,
-    "quantity": 2312,
-    "id": "1eAeY",
-    "code": "m9jDE"
   }
 ]
