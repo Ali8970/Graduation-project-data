@@ -153,15 +153,5 @@
     "id": "KqmX5",
     "code": "xVTwz",
     "image": "product-placeholder.jpg"
-  },
-  {
-    "name": "Tomatoe",
-    "description": "werewrewre",
-    "inventoryStatus": "instock",
-    "category": "Foods",
-    "quantity": 222,
-    "price": 232,
-    "id": "NZ2CA",
-    "code": "RYHZo"
   }
 ]
