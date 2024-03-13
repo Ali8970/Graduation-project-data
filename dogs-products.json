@@ -142,5 +142,16 @@
     "quantity": 50,
     "inventoryStatus": "INSTOCK",
     "rating": 5
+  },
+  {
+    "name": "dog1",
+    "description": "dasafsfd",
+    "inventoryStatus": "instock",
+    "category": "Accessories",
+    "price": 22,
+    "quantity": 4,
+    "id": "jb46m",
+    "code": "2wPIS",
+    "image": "product-placeholder.jpg"
   }
 ]
