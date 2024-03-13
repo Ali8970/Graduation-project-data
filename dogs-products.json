@@ -164,5 +164,16 @@
     "id": "ectG1",
     "code": "bMbC3",
     "image": "product-placeholder.jpg"
+  },
+  {
+    "name": "ertfgsdzxv",
+    "description": "dgsdfg",
+    "inventoryStatus": "instock",
+    "category": "Fitness",
+    "quantity": 44,
+    "price": 45,
+    "id": "wzNc0",
+    "code": "WSTFA",
+    "image": "product-placeholder.jpg"
   }
 ]
