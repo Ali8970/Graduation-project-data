@@ -142,16 +142,5 @@
     "quantity": 50,
     "inventoryStatus": "INSTOCK",
     "rating": 5
-  },
-  {
-    "name": "dog",
-    "description": "qwedewsfa",
-    "inventoryStatus": "instock",
-    "category": "Accessories",
-    "price": 232,
-    "quantity": 23,
-    "id": "8TWJ6",
-    "code": "BfC5h",
-    "image": "product-placeholder.jpg"
   }
 ]
