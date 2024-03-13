@@ -142,15 +142,5 @@
     "quantity": 50,
     "inventoryStatus": "INSTOCK",
     "rating": 5
-  },
-  {
-    "name": "SADFS",
-    "description": "SDSAD",
-    "inventoryStatus": "instock",
-    "category": "Foods",
-    "price": 33,
-    "quantity": 3,
-    "id": "5JiQm",
-    "code": "SwlzW"
   }
 ]
