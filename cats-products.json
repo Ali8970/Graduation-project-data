@@ -70,17 +70,5 @@
     "quantity": 25,
     "inventoryStatus": "INSTOCK",
     "rating": 5
-  },
-  {
-    "id": "3006",
-    "code": "a32fsd56c",
-    "name": "Cat Treats",
-    "description": "Delicious treats for rewarding your cat",
-    "image": "s-l1600 (1).png",
-    "price": 15,
-    "category": "Foods",
-    "quantity": 60,
-    "inventoryStatus": "INSTOCK",
-    "rating": 4
   }
 ]
