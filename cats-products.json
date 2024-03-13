@@ -58,17 +58,5 @@
     "quantity": 80,
     "inventoryStatus": "INSTOCK",
     "rating": 4
-  },
-  {
-    "id": "3005",
-    "code": "d23nds42k",
-    "name": "Cat Bed",
-    "description": "Soft and cozy bed for quality cat naps",
-    "image": "s-l1600.jpg",
-    "price": 60,
-    "category": "Homes",
-    "quantity": 25,
-    "inventoryStatus": "INSTOCK",
-    "rating": 5
   }
 ]
