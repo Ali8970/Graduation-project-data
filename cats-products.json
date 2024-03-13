@@ -94,5 +94,16 @@
     "quantity": 70,
     "inventoryStatus": "INSTOCK",
     "rating": 5
+  },
+  {
+    "name": "sdfsdfasdf",
+    "description": "fdsfsadf",
+    "inventoryStatus": "lowstock",
+    "category": "Accessories",
+    "price": 213,
+    "quantity": 12312,
+    "id": "cSLoY",
+    "code": "CMwMx",
+    "image": "product-placeholder.jpg"
   }
 ]
