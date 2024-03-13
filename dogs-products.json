@@ -144,11 +144,11 @@
     "rating": 5
   },
   {
-    "name": "Tomatoe",
+    "name": "Tom",
     "description": "asdfasdf",
     "inventoryStatus": "instock",
     "category": "Accessories",
-    "price": 32,
+    "price": 3,
     "quantity": 223,
     "id": "VvC0b",
     "code": "XVzOF",
