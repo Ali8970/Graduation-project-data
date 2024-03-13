@@ -142,5 +142,16 @@
     "quantity": 50,
     "inventoryStatus": "INSTOCK",
     "rating": 5
+  },
+  {
+    "price": 22132,
+    "name": "sdad",
+    "description": "sadasd",
+    "inventoryStatus": "outofstock",
+    "category": "Electronics",
+    "quantity": 12,
+    "id": "5Ri8a",
+    "code": "v4voQ",
+    "image": "product-placeholder.jpg"
   }
 ]
