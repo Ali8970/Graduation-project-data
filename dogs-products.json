@@ -142,16 +142,5 @@
     "quantity": 50,
     "inventoryStatus": "INSTOCK",
     "rating": 5
-  },
-  {
-    "name": "sdf",
-    "description": "adf\\asd\\gfsd",
-    "inventoryStatus": "instock",
-    "category": "Fitness",
-    "price": 34,
-    "quantity": 34,
-    "id": "dCegG",
-    "code": "2jdTL",
-    "image": "product-placeholder.jpg"
   }
 ]
