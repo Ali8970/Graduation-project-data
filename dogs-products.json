@@ -153,5 +153,16 @@
     "id": "jb46m",
     "code": "2wPIS",
     "image": "product-placeholder.jpg"
+  },
+  {
+    "name": "dc",
+    "description": "jhgfds",
+    "inventoryStatus": "lowstock",
+    "category": "Fitness",
+    "quantity": 23,
+    "price": 123,
+    "id": "ectG1",
+    "code": "bMbC3",
+    "image": "product-placeholder.jpg"
   }
 ]
