@@ -69,5 +69,16 @@
     "id": "xvFWw",
     "code": "KTVbB",
     "image": "product-placeholder.jpg"
+  },
+  {
+    "name": "bird2",
+    "description": "SDAS",
+    "inventoryStatus": "instock",
+    "category": "Clothing",
+    "price": 2131,
+    "quantity": 232,
+    "id": "6HWke",
+    "code": "eZ2l6",
+    "image": "product-placeholder.jpg"
   }
 ]
