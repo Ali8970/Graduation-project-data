@@ -142,5 +142,16 @@
     "quantity": 50,
     "inventoryStatus": "INSTOCK",
     "rating": 5
+  },
+  {
+    "name": "asdd",
+    "description": "asdasd",
+    "inventoryStatus": "instock",
+    "category": "Electronics",
+    "price": 1212,
+    "quantity": 21312,
+    "id": "obVll",
+    "code": "K1Dkc",
+    "image": "product-placeholder.jpg"
   }
 ]
