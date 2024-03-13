@@ -142,5 +142,16 @@
     "quantity": 50,
     "inventoryStatus": "INSTOCK",
     "rating": 5
+  },
+  {
+    "name": "Tomatoe",
+    "description": "asdfasdf",
+    "inventoryStatus": "instock",
+    "category": "Accessories",
+    "price": 32,
+    "quantity": 223,
+    "id": "VvC0b",
+    "code": "XVzOF",
+    "image": "product-placeholder.jpg"
   }
 ]
