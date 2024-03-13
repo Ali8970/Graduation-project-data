@@ -22,17 +22,5 @@
     "quantity": 100,
     "inventoryStatus": "INSTOCK",
     "rating": 4
-  },
-  {
-    "id": "3002",
-    "code": "z23abz3c1",
-    "name": "Cat Shampoo",
-    "description": "Gentle and moisturizing cat shampoo for shiny coat",
-    "image": "s-l960 (2).jpg",
-    "price": 25,
-    "category": "Care and cleanliness",
-    "quantity": 30,
-    "inventoryStatus": "INSTOCK",
-    "rating": 4
   }
 ]
