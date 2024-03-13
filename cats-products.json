@@ -34,17 +34,5 @@
     "quantity": 30,
     "inventoryStatus": "INSTOCK",
     "rating": 4
-  },
-  {
-    "id": "3003",
-    "code": "24asdw2eg",
-    "name": "Cat House",
-    "description": "Cozy and warm cat house for indoor relaxation",
-    "image": "71MWk0HHrNL._AC_SX679_.jpg",
-    "price": 50,
-    "category": "Homes",
-    "quantity": 10,
-    "inventoryStatus": "INSTOCK",
-    "rating": 5
   }
 ]
