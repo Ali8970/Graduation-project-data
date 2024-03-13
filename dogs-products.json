@@ -142,5 +142,16 @@
     "quantity": 50,
     "inventoryStatus": "INSTOCK",
     "rating": 5
+  },
+  {
+    "name": "Tomatoe",
+    "description": "sadasd",
+    "category": "Foods",
+    "price": 2,
+    "quantity": 22,
+    "image": "1-dentalife-dog-large-daily-mhi-1080x1080_0.png",
+    "id": "FIBgF",
+    "code": "bj1VX",
+    "inventoryStatus": "INSTOCK"
   }
 ]
