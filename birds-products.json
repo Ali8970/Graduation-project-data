@@ -58,16 +58,5 @@
     "quantity": 70,
     "inventoryStatus": "INSTOCK",
     "rating": 4
-  },
-  {
-    "name": "bird1",
-    "description": "asdAS",
-    "inventoryStatus": "instock",
-    "category": "Accessories",
-    "price": 213,
-    "quantity": 2312,
-    "id": "xvFWw",
-    "code": "KTVbB",
-    "image": "product-placeholder.jpg"
   }
 ]
