@@ -152,5 +152,16 @@
     "price": 21,
     "id": "8W3Sq",
     "code": "K6Yjs"
+  },
+  {
+    "image": "1-dentalife-dog-large-daily-mhi-1080x1080_0",
+    "name": "Tomatoe",
+    "description": "SDA",
+    "inventoryStatus": "instock",
+    "category": "Foods",
+    "price": 23,
+    "quantity": 32,
+    "id": "FtTiH",
+    "code": "Ay0ZZ"
   }
 ]
