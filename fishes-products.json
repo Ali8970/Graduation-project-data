@@ -58,16 +58,5 @@
     "quantity": 90,
     "inventoryStatus": "INSTOCK",
     "rating": 4
-  },
-  {
-    "name": "asdas",
-    "description": "sadasd",
-    "inventoryStatus": "lowstock",
-    "category": "Foods",
-    "price": 321,
-    "quantity": 232,
-    "id": "URiy0",
-    "code": "MktgO",
-    "image": "product-placeholder.jpg"
   }
 ]
