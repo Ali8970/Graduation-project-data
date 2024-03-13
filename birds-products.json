@@ -58,16 +58,5 @@
     "quantity": 70,
     "inventoryStatus": "INSTOCK",
     "rating": 4
-  },
-  {
-    "name": "Tomatoe",
-    "description": "asaSA",
-    "inventoryStatus": "instock",
-    "category": "Foods",
-    "price": 2,
-    "quantity": 232,
-    "id": "iiO3B",
-    "code": "clx0K",
-    "image": "product-placeholder.jpg"
   }
 ]
