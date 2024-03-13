@@ -142,16 +142,5 @@
     "quantity": 50,
     "inventoryStatus": "INSTOCK",
     "rating": 5
-  },
-  {
-    "name": "Tom",
-    "description": "asdfasdf",
-    "inventoryStatus": "instock",
-    "category": "Accessories",
-    "price": 3,
-    "quantity": 223,
-    "id": "VvC0b",
-    "code": "XVzOF",
-    "image": "product-placeholder.jpg"
   }
 ]
