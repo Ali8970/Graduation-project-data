@@ -69,16 +69,5 @@
     "id": "xvFWw",
     "code": "KTVbB",
     "image": "product-placeholder.jpg"
-  },
-  {
-    "name": "Big Fat Burger2",
-    "description": "SDAS",
-    "inventoryStatus": "instock",
-    "category": "Clothing",
-    "price": 2,
-    "quantity": 232,
-    "id": "6HWke",
-    "code": "eZ2l6",
-    "image": "product-placeholder.jpg"
   }
 ]
