@@ -142,15 +142,5 @@
     "quantity": 50,
     "inventoryStatus": "INSTOCK",
     "rating": 5
-  },
-  {
-    "name": "Tomatoe",
-    "description": "sdAAS",
-    "inventoryStatus": "instock",
-    "category": "Foods",
-    "price": 223,
-    "quantity": 33,
-    "id": "NOmaP",
-    "code": "MumFc"
   }
 ]
