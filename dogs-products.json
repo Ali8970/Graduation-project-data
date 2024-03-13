@@ -142,16 +142,5 @@
     "quantity": 50,
     "inventoryStatus": "INSTOCK",
     "rating": 5
-  },
-  {
-    "name": "Tomatoe",
-    "image": "1-dentalife-dog-large-daily-mhi-1080x1080_0.png",
-    "description": "asdSDS",
-    "inventoryStatus": "lowstock",
-    "category": "Foods",
-    "price": 222,
-    "quantity": 344,
-    "id": "hl4y6",
-    "code": "rzQFu"
   }
 ]
