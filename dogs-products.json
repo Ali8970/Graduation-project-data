@@ -142,16 +142,5 @@
     "quantity": 50,
     "inventoryStatus": "INSTOCK",
     "rating": 5
-  },
-  {
-    "name": "Tomatoe",
-    "description": "sdfSDFSF",
-    "inventoryStatus": "instock",
-    "category": "Foods",
-    "price": 212,
-    "quantity": 22,
-    "id": "KqmX5",
-    "code": "xVTwz",
-    "image": "product-placeholder.jpg"
   }
 ]
