@@ -94,5 +94,16 @@
     "quantity": 70,
     "inventoryStatus": "INSTOCK",
     "rating": 5
+  },
+  {
+    "name": "sads",
+    "description": "sadasdas",
+    "inventoryStatus": "instock",
+    "category": "Care and cleanliness",
+    "price": 12,
+    "quantity": 213,
+    "id": "zRYrm",
+    "code": "IPjpl",
+    "image": "product-placeholder.jpg"
   }
 ]
