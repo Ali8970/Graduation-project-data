@@ -94,16 +94,5 @@
     "quantity": 70,
     "inventoryStatus": "INSTOCK",
     "rating": 5
-  },
-  {
-    "name": "sads",
-    "description": "sadasdas",
-    "inventoryStatus": "instock",
-    "category": "Accessories",
-    "price": 12,
-    "quantity": 213,
-    "id": "zRYrm",
-    "code": "IPjpl",
-    "image": "product-placeholder.jpg"
   }
 ]
