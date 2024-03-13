@@ -69,16 +69,5 @@
     "id": "Uyy6Z",
     "code": "A0oQG",
     "image": "product-placeholder.jpg"
-  },
-  {
-    "name": "big fish3",
-    "description": "ASdasf",
-    "inventoryStatus": "instock",
-    "category": "Accessories",
-    "price": 2322,
-    "quantity": 33,
-    "id": "aBlMG",
-    "code": "cwbNf",
-    "image": "product-placeholder.jpg"
   }
 ]
