@@ -11,6 +11,7 @@
                 "id": "2000",
                 "name": "Premium Dog Food",
                 "category": "Foods",
+                "image": "Birbo Premium Adult Dog Dry Food With Meat_.png",
                 "price": 100,
                 "quantity": 2
             },
@@ -18,6 +19,7 @@
                 "id": "2001",
                 "name": "Dog Collar",
                 "category": "Accessories",
+                "image": "rd-reflective-martingale-dog-collar.jpg",
                 "price": 120,
                 "quantity": 1
             }
@@ -35,6 +37,7 @@
                 "id": "3000",
                 "name": "Premium Cat Food",
                 "category": "Foods",
+                "image": "61uz6kLKY3L._AC_SX679_.jpg",
                 "price": 90,
                 "quantity": 3
             },
@@ -42,6 +45,7 @@
                 "id": "4000",
                 "name": "Premium Bird Seed Mix",
                 "category": "Foods",
+                "image": "orva00401_1.jpeg",
                 "price": 20,
                 "quantity": 2
             }
@@ -59,6 +63,7 @@
                 "id": "2001",
                 "name": "Dog Collar",
                 "category": "Accessories",
+                "image": "rd-reflective-martingale-dog-collar.jpg",
                 "price": 120,
                 "quantity": 1
             },
@@ -66,6 +71,7 @@
                 "id": "5000",
                 "name": "Tropical Fish Food",
                 "category": "Foods",
+                "image": "s-l1600 (2).jpg",
                 "price": 15,
                 "quantity": 5
             }
@@ -83,6 +89,7 @@
                 "id": "2000",
                 "name": "Premium Dog Food",
                 "category": "Foods",
+                "image": "Birbo Premium Adult Dog Dry Food With Meat_.png",
                 "price": 100,
                 "quantity": 4
             },
@@ -90,6 +97,7 @@
                 "id": "2001",
                 "name": "Dog Collar",
                 "category": "Accessories",
+                "image": "rd-reflective-martingale-dog-collar.jpg",
                 "price": 120,
                 "quantity": 2
             }
