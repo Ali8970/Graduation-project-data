@@ -36,18 +36,6 @@
     "rating": 4
   },
   {
-    "id": "5003",
-    "code": "24asdw2eg",
-    "name": "Fish Tank Decorations Set",
-    "description": "Assorted decorations to create an engaging underwater environment",
-    "image": "s-l960 (1).jpg",
-    "price": 40,
-    "category": "Accessories",
-    "quantity": 120,
-    "inventoryStatus": "INSTOCK",
-    "rating": 5
-  },
-  {
     "id": "5004",
     "code": "d23nds42k",
     "name": "Aquarium Air Pump",
