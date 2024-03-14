@@ -26,19 +26,6 @@
         }
     },
     {
-        "fullname": "Alice Johnson",
-        "address": "789 Oak Road, Villageton, USA",
-        "phone_number": "01157082421",
-        "pet_information": {
-            "name": "Snowball",
-            "age": 4,
-            "species": "Rabbit",
-            "breed": "Lionhead",
-            "description": "Gentle rabbit, litter-box trained and enjoys being petted.",
-            "image_url": "https://example.com/snowball.jpg"
-        }
-    },
-    {
         "fullname": "Michael Brown",
         "address": "321 Pine Lane, Hamletville, USA",
         "phone_number": "01157082413",
