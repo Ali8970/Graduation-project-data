@@ -94,5 +94,16 @@
     "quantity": 70,
     "inventoryStatus": "INSTOCK",
     "rating": 5
+  },
+  {
+    "name": "Cats food",
+    "image": "s-l1600.jpg",
+    "description": "Cats foodCats foodCats foodCats food",
+    "inventoryStatus": "lowstock",
+    "category": "Homes",
+    "price": 222,
+    "quantity": 11,
+    "id": "DCgWU",
+    "code": "XoVW7"
   }
 ]
