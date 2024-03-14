@@ -144,13 +144,13 @@
     "rating": 5
   },
   {
-    "name": "Dog food",
+    "name": "Dog food1",
     "image": "Birbo Premium Adult Dog Dry Food With Meat_.png",
     "description": "Dog foodDog foodDog food",
     "inventoryStatus": "lowstock",
     "category": "Foods",
-    "price": 200,
-    "quantity": 10,
+    "price": 250,
+    "quantity": 5,
     "id": "a25qV",
     "code": "3LdMu"
   }
