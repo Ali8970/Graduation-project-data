@@ -1,31 +1,5 @@
 [
   {
-    "order_id": "10002",
-    "user_info": {
-      "full_name": "Jane Smith",
-      "shipping_address": "456 Elm St, Town, Country",
-      "phone_number": "01157082371"
-    },
-    "products": [
-      {
-        "id": "3000",
-        "name": "Premium Cat Food",
-        "category": "Foods",
-        "image": "61uz6kLKY3L._AC_SX679_.jpg",
-        "price": 90,
-        "quantity": 3
-      },
-      {
-        "id": "4000",
-        "name": "Premium Bird Seed Mix",
-        "category": "Foods",
-        "image": "orva00401_1.jpeg",
-        "price": 20,
-        "quantity": 2
-      }
-    ]
-  },
-  {
     "order_id": "10003",
     "user_info": {
       "full_name": "Alice Johnson",
