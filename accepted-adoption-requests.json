@@ -37,5 +37,18 @@
       "description": "Loyal and intelligent dog, knows basic commands and loves to learn.",
       "image_url": "dog5.jpg"
     }
+  },
+  {
+    "fullname": "Robert Martinez",
+    "address": "999 Walnut Road, Valleyview, USA",
+    "phone_number": "01157082417",
+    "pet_information": {
+      "name": "Rex",
+      "age": 4,
+      "species": "Dog",
+      "breed": "Poodle",
+      "description": "Gentle and well-behaved dog, loves going for walks and playing fetch.",
+      "image_url": "dog1.jpg"
+    }
   }
 ]
