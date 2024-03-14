@@ -1,18 +1,5 @@
 [
   {
-    "fullname": "Emily Wilson",
-    "address": "555 Maple Street, Riverside, USA",
-    "phone_number": "01157082414",
-    "pet_information": {
-      "name": "Fluffy",
-      "age": 5,
-      "species": "Cat",
-      "breed": "Persian",
-      "description": "Regal and calm cat, prefers quiet environments and gentle handling.",
-      "image_url": "cat5.jpeg"
-    }
-  },
-  {
     "fullname": "David Lee",
     "address": "777 Birch Avenue, Lakeside, USA",
     "phone_number": "01157082415",
