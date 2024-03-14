@@ -94,16 +94,5 @@
     "quantity": 70,
     "inventoryStatus": "INSTOCK",
     "rating": 5
-  },
-  {
-    "name": "Cats",
-    "image": "71Xl-qBa0wL.__AC_SX300_SY300_QL70_ML2_.jpg",
-    "description": "Cats foodCats foodCats foodCats food",
-    "inventoryStatus": "lowstock",
-    "category": "Foods",
-    "price": 22,
-    "quantity": 11,
-    "id": "DCgWU",
-    "code": "XoVW7"
   }
 ]
