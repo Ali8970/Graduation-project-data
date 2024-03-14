@@ -60,12 +60,12 @@
     "rating": 4
   },
   {
-    "name": "fishes food",
+    "name": "fishes ",
     "image": "s-l1600 (2).jpg",
     "description": "fishes foodfishes foodfishes foodfishes food",
     "inventoryStatus": "lowstock",
     "category": "Homes",
-    "price": 1111,
+    "price": 111,
     "quantity": 2,
     "id": "0f15H",
     "code": "dTwC3"
