@@ -142,16 +142,5 @@
     "quantity": 50,
     "inventoryStatus": "INSTOCK",
     "rating": 5
-  },
-  {
-    "name": "big",
-    "image": "s-l960 (1).jpg",
-    "description": "big dogbig dogbig dogbig dogbig dog",
-    "inventoryStatus": "instock",
-    "category": "Accessories",
-    "price": 200,
-    "quantity": 20,
-    "id": "x31Hx",
-    "code": "148kM"
   }
 ]
