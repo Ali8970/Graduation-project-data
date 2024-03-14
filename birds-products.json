@@ -58,5 +58,16 @@
     "quantity": 70,
     "inventoryStatus": "INSTOCK",
     "rating": 4
+  },
+  {
+    "name": "birds food",
+    "image": "61uz6kLKY3L._AC_SX679_.jpg",
+    "description": "birds foodbirds foodbirds foodbirds food",
+    "inventoryStatus": "outofstock",
+    "category": "Foods",
+    "quantity": 3,
+    "price": 130,
+    "id": "Jq6Iy",
+    "code": "usi1h"
   }
 ]
