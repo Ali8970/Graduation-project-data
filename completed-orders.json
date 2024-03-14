@@ -1,0 +1,28 @@
+[
+  {
+        "order_id": "10009",
+        "user_info": {
+            "full_name": "John Doe",
+            "shipping_address": "123 Main St, City, Country",
+            "phone_number": "01157082371"
+        },
+        "products": [
+            {
+                "id": "2000",
+                "name": "Premium Dog Food",
+                "category": "Foods",
+                "image": "Birbo Premium Adult Dog Dry Food With Meat_.png",
+                "price": 100,
+                "quantity": 2
+            },
+            {
+                "id": "2001",
+                "name": "Dog Collar",
+                "category": "Accessories",
+                "image": "rd-reflective-martingale-dog-collar.jpg",
+                "price": 120,
+                "quantity": 1
+            }
+        ]
+    }
+]
