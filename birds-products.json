@@ -58,16 +58,5 @@
     "quantity": 70,
     "inventoryStatus": "INSTOCK",
     "rating": 4
-  },
-  {
-    "name": "birds food",
-    "image": "61uz6kLKY3L._AC_SX679_.jpg",
-    "description": "birds foodbirds foodbirds foodbirds food",
-    "inventoryStatus": "instock",
-    "category": "Care and cleanliness",
-    "quantity": 3,
-    "price": 13,
-    "id": "Jq6Iy",
-    "code": "usi1h"
   }
 ]
