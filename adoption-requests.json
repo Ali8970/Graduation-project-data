@@ -9,7 +9,7 @@
             "species": "Dog",
             "breed": "Golden Retriever",
             "description": "Friendly and energetic dog, loves to play fetch and go on walks.",
-            "image_url": "https://example.com/buddy.jpg"
+            "image_url": "dog2.webp"
         }
     },
     {
@@ -22,7 +22,7 @@
             "species": "Cat",
             "breed": "Tabby",
             "description": "Affectionate cat, enjoys cuddling and lounging in sunny spots.",
-            "image_url": "https://example.com/whiskers.jpg"
+            "image_url": "cat3.jpeg"
         }
     },
     {
@@ -35,7 +35,7 @@
             "species": "Dog",
             "breed": "German Shepherd",
             "description": "Loyal and intelligent dog, knows basic commands and loves to learn.",
-            "image_url": "https://example.com/max.jpg"
+            "image_url": "dog5.jpg"
         }
     },
     {
@@ -48,7 +48,7 @@
             "species": "Cat",
             "breed": "Persian",
             "description": "Regal and calm cat, prefers quiet environments and gentle handling.",
-            "image_url": "https://example.com/fluffy.jpg"
+            "image_url": "cat5.jpeg"
         }
     },
     {
@@ -61,7 +61,7 @@
             "species": "Dog",
             "breed": "Labrador Retriever",
             "description": "Playful and friendly dog, gets along well with other pets and children.",
-            "image_url": "https://example.com/rocky.jpg"
+            "image_url": "dog3.webp"
         }
     },
     {
@@ -74,7 +74,7 @@
             "species": "Cat",
             "breed": "Siamese",
             "description": "Vocal and affectionate cat, enjoys interactive toys and sitting on laps.",
-            "image_url": "https://example.com/mittens.jpg"
+            "image_url": "cat4.webp"
         }
     },
     {
@@ -87,7 +87,7 @@
             "species": "Dog",
             "breed": "Poodle",
             "description": "Gentle and well-behaved dog, loves going for walks and playing fetch.",
-            "image_url": "https://example.com/rex.jpg"
+            "image_url": "dog1.jpg"
         }
     },
     {
@@ -100,20 +100,7 @@
             "species": "Cat",
             "breed": "Maine Coon",
             "description": "Independent and curious cat, enjoys exploring and lounging in high places.",
-            "image_url": "https://example.com/socks.jpg"
-        }
-    },
-    {
-        "fullname": "Daniel Garcia",
-        "address": "111 Cedar Lane, Hilltop, USA",
-        "phone_number": "01157082419",
-        "pet_information": {
-            "name": "Bella",
-            "age": 1,
-            "species": "Dog",
-            "breed": "French Bulldog",
-            "description": "Affectionate and playful dog, enjoys snuggling and short walks.",
-            "image_url": "https://example.com/bella.jpg"
+            "image_url": "cat1.jpg"
         }
     }
 ]
