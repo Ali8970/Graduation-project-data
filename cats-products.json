@@ -94,16 +94,5 @@
     "quantity": 70,
     "inventoryStatus": "INSTOCK",
     "rating": 5
-  },
-  {
-    "name": "Cats food",
-    "image": "product-placeholder.jpg",
-    "description": "Cats foodCats foodCats foodCats food",
-    "inventoryStatus": "instock",
-    "category": "Foods",
-    "price": 300,
-    "quantity": 22,
-    "id": "b5htZ",
-    "code": "9q6Tv"
   }
 ]
