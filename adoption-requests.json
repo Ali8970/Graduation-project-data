@@ -1,18 +1,5 @@
 [
   {
-    "fullname": "David Lee",
-    "address": "777 Birch Avenue, Lakeside, USA",
-    "phone_number": "01157082415",
-    "pet_information": {
-      "name": "Rocky",
-      "age": 2,
-      "species": "Dog",
-      "breed": "Labrador Retriever",
-      "description": "Playful and friendly dog, gets along well with other pets and children.",
-      "image_url": "dog3.webp"
-    }
-  },
-  {
     "fullname": "Sarah Taylor",
     "address": "888 Cedar Street, Hilltop, USA",
     "phone_number": "01157082416",
