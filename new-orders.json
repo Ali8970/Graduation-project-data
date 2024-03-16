@@ -1,4 +1,56 @@
 [
+ {
+    "order_id": "10001",
+    "user_info": {
+      "full_name": "John Smith",
+      "shipping_address": "123 Main St, City, Country",
+      "phone_number": "01157082371"
+    },
+    "products": [
+      {
+        "id": "2001",
+        "name": "Dog Collar",
+        "category": "Accessories",
+        "image": "rd-reflective-martingale-dog-collar.jpg",
+        "price": 120,
+        "quantity": 1
+      },
+      {
+        "id": "5000",
+        "name": "Tropical Fish Food",
+        "category": "Foods",
+        "image": "s-l1600 (2).jpg",
+        "price": 15,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "order_id": "10002",
+    "user_info": {
+      "full_name": "Emily Davis",
+      "shipping_address": "456 Elm St, Town, Country",
+      "phone_number": "01157082371"
+    },
+    "products": [
+      {
+        "id": "2000",
+        "name": "Premium Dog Food",
+        "category": "Foods",
+        "image": "Birbo Premium Adult Dog Dry Food With Meat_.png",
+        "price": 100,
+        "quantity": 4
+      },
+      {
+        "id": "2001",
+        "name": "Dog Collar",
+        "category": "Accessories",
+        "image": "rd-reflective-martingale-dog-collar.jpg",
+        "price": 120,
+        "quantity": 2
+      }
+    ]
+  },
   {
     "order_id": "10003",
     "user_info": {
@@ -47,6 +99,110 @@
         "category": "Accessories",
         "image": "rd-reflective-martingale-dog-collar.jpg",
         "price": 120,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": "10005",
+    "user_info": {
+      "full_name": "Sophia Miller",
+      "shipping_address": "567 Maple St, Hamlet, Country",
+      "phone_number": "01157082371"
+    },
+    "products": [
+      {
+        "id": "2002",
+        "name": "Cat Bed",
+        "category": "Accessories",
+        "image": "cat-bed.jpg",
+        "price": 50,
+        "quantity": 1
+      },
+      {
+        "id": "2003",
+        "name": "Pet Shampoo",
+        "category": "Grooming",
+        "image": "pet-shampoo.jpg",
+        "price": 20,
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "order_id": "10006",
+    "user_info": {
+      "full_name": "Michael Wilson",
+      "shipping_address": "789 Birch St, Hamlet, Country",
+      "phone_number": "01157082371"
+    },
+    "products": [
+      {
+        "id": "2000",
+        "name": "Premium Dog Food",
+        "category": "Foods",
+        "image": "Birbo Premium Adult Dog Dry Food With Meat_.png",
+        "price": 100,
+        "quantity": 2
+      },
+      {
+        "id": "2001",
+        "name": "Dog Collar",
+        "category": "Accessories",
+        "image": "rd-reflective-martingale-dog-collar.jpg",
+        "price": 120,
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "order_id": "10007",
+    "user_info": {
+      "full_name": "Emma Garcia",
+      "shipping_address": "234 Cedar St, Hamlet, Country",
+      "phone_number": "01157082371"
+    },
+    "products": [
+      {
+        "id": "2001",
+        "name": "Dog Collar",
+        "category": "Accessories",
+        "image": "rd-reflective-martingale-dog-collar.jpg",
+        "price": 120,
+        "quantity": 2
+      },
+      {
+        "id": "5001",
+        "name": "Bird Seeds",
+        "category": "Foods",
+        "image": "bird-seeds.jpg",
+        "price": 10,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "order_id": "10008",
+    "user_info": {
+      "full_name": "Olivia Martinez",
+      "shipping_address": "678 Oak St, Hamlet, Country",
+      "phone_number": "01157082371"
+    },
+    "products": [
+      {
+        "id": "2000",
+        "name": "Premium Dog Food",
+        "category": "Foods",
+        "image": "Birbo Premium Adult Dog Dry Food With Meat_.png",
+        "price": 100,
+        "quantity": 3
+      },
+      {
+        "id": "5002",
+        "name": "Guinea Pig Hay",
+        "category": "Foods",
+        "image": "guinea-pig-hay.jpg",
+        "price": 8,
         "quantity": 2
       }
     ]
