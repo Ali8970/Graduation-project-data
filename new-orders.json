@@ -1,30 +1,4 @@
 [
- {
-    "order_id": "10001",
-    "user_info": {
-      "full_name": "John Smith",
-      "shipping_address": "123 Main St, City, Country",
-      "phone_number": "01157082371"
-    },
-    "products": [
-      {
-        "id": "2001",
-        "name": "Dog Collar",
-        "category": "Accessories",
-        "image": "rd-reflective-martingale-dog-collar.jpg",
-        "price": 120,
-        "quantity": 1
-      },
-      {
-        "id": "5000",
-        "name": "Tropical Fish Food",
-        "category": "Foods",
-        "image": "s-l1600 (2).jpg",
-        "price": 15,
-        "quantity": 5
-      }
-    ]
-  },
   {
     "order_id": "10002",
     "user_info": {
