@@ -1,18 +1,5 @@
 [
   {
-    "fullname": "Sarah Taylor",
-    "address": "888 Cedar Street, Hilltop, USA",
-    "phone_number": "01157082416",
-    "pet_information": {
-      "name": "Mittens",
-      "age": 3,
-      "species": "Cat",
-      "breed": "Siamese",
-      "description": "Vocal and affectionate cat, enjoys interactive toys and sitting on laps.",
-      "image_url": "cat4.webp"
-    }
-  },
-  {
     "fullname": "Robert Martinez",
     "address": "999 Walnut Road, Valleyview, USA",
     "phone_number": "01157082417",
