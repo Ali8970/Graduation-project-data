@@ -34,17 +34,5 @@
     "quantity": 80,
     "inventoryStatus": "INSTOCK",
     "rating": 4
-  },
-  {
-    "id": "5004",
-    "code": "d23nds42k",
-    "name": "Aquarium Air Pump",
-    "description": "Quiet and efficient pump for providing oxygen to fish tank water",
-    "image": "s-l1600 (3).jpg",
-    "price": 25,
-    "category": "Accessories",
-    "quantity": 90,
-    "inventoryStatus": "INSTOCK",
-    "rating": 4
   }
 ]
