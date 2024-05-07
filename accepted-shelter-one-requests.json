@@ -7,6 +7,7 @@
     "user_information": {
       "name": "Michael Brown",
       "phone_number": "01004883543",
+      "email": "menna1@gmail.com",
       "user_address": "321 Pine Lane, Hamletville, USA"
     }
   },
@@ -18,6 +19,7 @@
     "user_information": {
       "name": "Sarah Taylor",
       "phone_number": "01004883543",
+      "email": "menna1@gmail.com",
       "user_address": "888 Cedar Street, Hilltop, USA"
     }
   }
