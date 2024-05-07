@@ -7,6 +7,7 @@
     "user_information": {
       "name": "Mark",
       "phone_number": "01004883543",
+      "email": "menna1@gmail.com",
       "user_address": "999 Walnut Road, Valleyview, USA"
     }
   },
@@ -18,6 +19,7 @@
     "user_information": {
       "name": "Olivia Clark",
       "phone_number": "01152363278",
+      "email": "menna1@gmail.com",
       "user_address": "222 Sycamore Lane, Lakeside, USA"
     }
   },
@@ -29,6 +31,7 @@
     "user_information": {
       "name": "John Doe",
       "phone_number": "01152363287",
+      "email": "menna1@gmail.com",
       "user_address": "123 Main Street, Cityville, USA"
     }
   },
@@ -40,6 +43,7 @@
     "user_information": {
       "name": "Jane Smith",
       "phone_number": "01157082412",
+      "email": "menna1@gmail.com",
       "user_address": "456 Elm Avenue, Townsville, USA"
     }
   }
