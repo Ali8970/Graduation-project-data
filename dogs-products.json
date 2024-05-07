@@ -130,5 +130,18 @@
     "quantity": 35,
     "inventoryStatus": "INSTOCK",
     "rating": 4
+  },
+  {
+    "name": "Dog Dental Chew",
+    "image": "1-dentalife-dog-large-daily-mhi-1080x1080_0.png",
+    "description": "Chew toy designed to promote dental health by cleaning teeth and gums",
+    "inventoryStatus": "instock",
+    "category": "Accessories",
+    "price": 115,
+    "quantity": 50,
+    "id": "cMZVE",
+    "code": "b0hj1",
+    "itemQuantity": 1,
+    "isFavorite": false
   }
 ]
