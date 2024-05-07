@@ -130,28 +130,5 @@
     "quantity": 35,
     "inventoryStatus": "INSTOCK",
     "rating": 4
-  },
-  {
-    "id": "2011",
-    "code": "v3nmsd345",
-    "name": "Dog Dental Chew",
-    "description": "Chew toy designed to promote dental health by cleaning teeth and gums",
-    "image": "1-dentalife-dog-large-daily-mhi-1080x1080_0.png",
-    "price": 115,
-    "category": "Accessories",
-    "quantity": 50,
-    "inventoryStatus": "INSTOCK",
-    "rating": 5
-  },
-  {
-    "name": "haski",
-    "image": "00609a8f-8692-4a37-9ad3-e98ed6aa4f29.jpg",
-    "description": "bjdcbsfjvbfdhv",
-    "category": "Accessories",
-    "price": 30,
-    "quantity": 30,
-    "id": "goyZg",
-    "code": "iIpBT",
-    "inventoryStatus": "INSTOCK"
   }
 ]
