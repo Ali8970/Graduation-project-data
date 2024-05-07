@@ -8,6 +8,8 @@
       "name": "Rocky",
       "age": 2,
       "species": "Dog",
+      "gender": "male",
+      "Weight": 4,
       "breed": "Labrador Retriever",
       "description": "Playful and friendly dog, gets along well with other pets and children.",
       "image_url": "dog3.webp"
@@ -21,6 +23,8 @@
     "pet_information": {
       "name": "Mittens",
       "age": 3,
+      "gender": "male",
+      "Weight": 4,
       "species": "Cat",
       "breed": "Siamese",
       "description": "Vocal and affectionate cat, enjoys interactive toys and sitting on laps.",
@@ -35,6 +39,8 @@
     "pet_information": {
       "name": "Socks",
       "age": 2,
+      "gender": "female",
+      "Weight": 3,
       "species": "Cat",
       "breed": "Maine Coon",
       "description": "Independent and curious cat, enjoys exploring and lounging in high places.",
@@ -49,6 +55,8 @@
     "pet_information": {
       "name": "Socks",
       "age": 2,
+      "gender": "male",
+      "Weight": 2,
       "species": "Cat",
       "breed": "Maine Coon",
       "description": "Independent and curious cat, enjoys exploring and lounging in high places.",
