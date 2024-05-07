@@ -1,54 +1,34 @@
 [
   {
-    "fullname": "John Doe",
-    "address": "123 Main Street, Cityville, USA",
-    "phone_number": "01157082411",
+    "fullname": "Olivia Clark",
+    "address": "222 Sycamore Lane, Lakeside, USA",
+    "phone_number": "01157082418",
+    "email": "menna2@gmail.com",
     "pet_information": {
-      "name": "Buddy",
-      "age": 3,
-      "species": "Dog",
-      "breed": "Golden Retriever",
-      "description": "Friendly and energetic dog, loves to play fetch and go on walks.",
-      "image_url": "dog2.webp"
-    }
-  },
-  {
-    "fullname": "Jane Smith",
-    "address": "456 Elm Avenue, Townsville, USA",
-    "phone_number": "01157082412",
-    "pet_information": {
-      "name": "Whiskers",
+      "name": "Socks",
       "age": 2,
+      "gender": "female",
+      "weight": 3,
       "species": "Cat",
-      "breed": "Tabby",
-      "description": "Affectionate cat, enjoys cuddling and lounging in sunny spots.",
-      "image_url": "cat3.jpeg"
+      "breed": "Maine Coon",
+      "description": "Independent and curious cat, enjoys exploring and lounging in high places.",
+      "image_url": "cat1.jpg"
     }
   },
   {
-    "fullname": "Michael Brown",
-    "address": "321 Pine Lane, Hamletville, USA",
-    "phone_number": "01157082413",
+    "fullname": "Olivia Clark",
+    "address": "222 Sycamore Lane, Lakeside, USA",
+    "phone_number": "01157082418",
+    "email": "menna2@gmail.com",
     "pet_information": {
-      "name": "Max",
-      "age": 1,
-      "species": "Dog",
-      "breed": "German Shepherd",
-      "description": "Loyal and intelligent dog, knows basic commands and loves to learn.",
-      "image_url": "dog5.jpg"
-    }
-  },
-  {
-    "fullname": "Robert Martinez",
-    "address": "999 Walnut Road, Valleyview, USA",
-    "phone_number": "01157082417",
-    "pet_information": {
-      "name": "Rex",
-      "age": 4,
-      "species": "Dog",
-      "breed": "Poodle",
-      "description": "Gentle and well-behaved dog, loves going for walks and playing fetch.",
-      "image_url": "dog1.jpg"
+      "name": "Socks",
+      "age": 2,
+      "gender": "male",
+      "weight": 2,
+      "species": "Cat",
+      "breed": "Maine Coon",
+      "description": "Independent and curious cat, enjoys exploring and lounging in high places.",
+      "image_url": "cat1.jpg"
     }
   }
 ]
