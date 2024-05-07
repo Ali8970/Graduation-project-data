@@ -7,6 +7,7 @@
         "user_information": {
             "name": "Jane Smith",
             "phone_number": "01157082412",
+            "email": "menna1@gmail.com",
             "user_address": "456 Elm Avenue, Townsville, USA"
         }
     }
