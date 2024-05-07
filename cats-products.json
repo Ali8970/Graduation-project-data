@@ -82,5 +82,18 @@
     "quantity": 60,
     "inventoryStatus": "INSTOCK",
     "rating": 4
+  },
+  {
+    "name": "Cat Leash",
+    "image": "s-l960 (3).jpg",
+    "description": "Lightweight leash for safe outdoor adventures with your cat",
+    "inventoryStatus": "instock",
+    "category": "Accessories",
+    "price": 35,
+    "quantity": 100,
+    "id": "tIEoG",
+    "code": "JArds",
+    "itemQuantity": 1,
+    "isFavorite": false
   }
 ]
