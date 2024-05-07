@@ -46,5 +46,18 @@
     "quantity": 120,
     "inventoryStatus": "INSTOCK",
     "rating": 5
+  },
+  {
+    "name": "Bird Bath",
+    "description": "Shallow bath for birds to bathe and stay clean",
+    "image": "s-l1600 (1).jpg",
+    "inventoryStatus": "instock",
+    "category": "Accessories",
+    "price": 140,
+    "quantity": 50,
+    "id": "ff5wK",
+    "code": "ZvSrA",
+    "itemQuantity": 1,
+    "isFavorite": false
   }
 ]
