@@ -1,5 +1,5 @@
 [
-    {
+  {
     "id": 3,
     "image_url": "dog2.webp",
     "pet_type": "Dog",
@@ -24,20 +24,6 @@
       "phone_number": "01157082412",
       "email": "menna1@gmail.com",
       "user_address": "456 Elm Avenue, Townsville, USA",
-      "message": "is very good"
-    }
-  },
-  {
-    "id": 1,
-    "image_url": "dog1.jpg",
-    "pet_type": "Dog",
-    "pet_address": "999 Walnut Road, Valleyview, USA",
-    "shelter_name": "Asma1",
-    "user_information": {
-      "name": "Mark",
-      "phone_number": "01004883543",
-      "email": "menna1@gmail.com",
-      "user_address": "999 Walnut Road, Valleyview, USA",
       "message": "is very good"
     }
   },
