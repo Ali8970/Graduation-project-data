@@ -34,5 +34,18 @@
     "quantity": 80,
     "inventoryStatus": "INSTOCK",
     "rating": 4
+  },
+  {
+    "name": "Aquarium Air Pump",
+    "image": "s-l1600 (3).jpg",
+    "description": "Quiet and efficient pump for providing oxygen to fish tank water",
+    "inventoryStatus": "instock",
+    "category": "Accessories",
+    "price": 200,
+    "quantity": 30,
+    "id": "ZRQrJ",
+    "code": "9J0tW",
+    "itemQuantity": 1,
+    "isFavorite": false
   }
 ]
