@@ -82,17 +82,5 @@
     "quantity": 60,
     "inventoryStatus": "INSTOCK",
     "rating": 4
-  },
-  {
-    "id": "3007",
-    "code": "m38dskl93",
-    "name": "Cat Leash",
-    "description": "Lightweight leash for safe outdoor adventures with your cat",
-    "image": "s-l960 (3).jpg",
-    "price": 35,
-    "category": "Accessories",
-    "quantity": 70,
-    "inventoryStatus": "INSTOCK",
-    "rating": 5
   }
 ]
