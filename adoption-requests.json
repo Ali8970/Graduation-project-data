@@ -1,1 +1,54 @@
-[]
+[
+  {
+    "fullname": "David Lee",
+    "address": "777 Birch Avenue, Lakeside, USA",
+    "phone_number": "01157082415",
+    "pet_information": {
+      "name": "Rocky",
+      "age": 2,
+      "species": "Dog",
+      "breed": "Labrador Retriever",
+      "description": "Playful and friendly dog, gets along well with other pets and children.",
+      "image_url": "dog3.webp"
+    }
+  },
+  {
+    "fullname": "Sarah Taylor",
+    "address": "888 Cedar Street, Hilltop, USA",
+    "phone_number": "01157082416",
+    "pet_information": {
+      "name": "Mittens",
+      "age": 3,
+      "species": "Cat",
+      "breed": "Siamese",
+      "description": "Vocal and affectionate cat, enjoys interactive toys and sitting on laps.",
+      "image_url": "cat4.webp"
+    }
+  },
+  {
+    "fullname": "Olivia Clark",
+    "address": "222 Sycamore Lane, Lakeside, USA",
+    "phone_number": "01157082418",
+    "pet_information": {
+      "name": "Socks",
+      "age": 2,
+      "species": "Cat",
+      "breed": "Maine Coon",
+      "description": "Independent and curious cat, enjoys exploring and lounging in high places.",
+      "image_url": "cat1.jpg"
+    }
+  },
+  {
+    "fullname": "Olivia Clark",
+    "address": "222 Sycamore Lane, Lakeside, USA",
+    "phone_number": "01157082418",
+    "pet_information": {
+      "name": "Socks",
+      "age": 2,
+      "species": "Cat",
+      "breed": "Maine Coon",
+      "description": "Independent and curious cat, enjoys exploring and lounging in high places.",
+      "image_url": "cat1.jpg"
+    }
+  }
+]
