@@ -297,5 +297,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Bioline Kitten Shampoo 200 ml",
+    "description": "Shampoo With Deep Nourishing Formula, Adds Va,Vh And Nutrients, Solves problems of sensitive fur, Easy To Use, Add CRILLET180 mild ingredients.",
+    "image": "cc4.jpg",
+    "inventoryStatus": "instock",
+    "category": "Care and cleanliness",
+    "price": 300,
+    "quantity": 50,
+    "id": "gkxmJ",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
