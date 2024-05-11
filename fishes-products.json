@@ -1,17 +1,5 @@
 [
   {
-    "id": "5002",
-    "code": "z23abz3c1",
-    "name": "Aquarium Heater",
-    "description": "Adjustable heater to maintain optimal water temperature in aquariums",
-    "image": "s-l960 (4).jpg",
-    "price": 30,
-    "category": "Accessories",
-    "quantity": 80,
-    "inventoryStatus": "INSTOCK",
-    "rating": 4
-  },
-  {
     "name": "Aquarium Air Pump",
     "image": "s-l1600 (3).jpg",
     "description": "Quiet and efficient pump for providing oxygen to fish tank water",
