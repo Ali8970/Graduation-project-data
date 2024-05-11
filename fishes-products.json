@@ -323,5 +323,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Small Betta Fish Tank",
+    "image": "61VVczRR2HL._AC_SL1200_.jpg",
+    "description": "Mini Aquarium with Safely Divided Compartments Blue, Acrylic Fish Bowl for Betta Shrimp Guppy Jellyfish Goldfish Beta, Room Decor Desktop Fish Tank.",
+    "inventoryStatus": "instock",
+    "category": "Homes",
+    "price": 8999,
+    "quantity": 50,
+    "id": "x6qec",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
