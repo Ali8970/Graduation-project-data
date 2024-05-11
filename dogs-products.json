@@ -443,5 +443,17 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "image": "p-h-3.jpeg",
+    "name": "Ariika Spike Bed 115 x 80 x 40 cm",
+    "inventoryStatus": "instock",
+    "category": "Homes",
+    "price": 500,
+    "quantity": 25,
+    "id": "3ww9u",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
