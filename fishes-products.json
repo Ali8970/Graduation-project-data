@@ -388,5 +388,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "2 Pack Fish Tank Decorations",
+    "description": "The aquarium diver ornaments are made of stable resin material and crafted with distinctive shape and vivid colors. They are secure to use in both fresh water and salt water while not affecting the water quality.",
+    "image": "81tHG+x-N2L._AC_SL1500_.jpg",
+    "inventoryStatus": "instock",
+    "category": "Accessories",
+    "price": 199,
+    "quantity": 50,
+    "id": "wyJkQ",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
