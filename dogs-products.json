@@ -481,5 +481,17 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "image": "p-h-5.jpeg",
+    "name": "dog Boss Jumbo Outdoor dog Bed 100*70 cm",
+    "description": " double faced comfortable bed made from a waterproof material and soft fiber",
+    "inventoryStatus": "instock",
+    "price": 1000,
+    "quantity": 20,
+    "id": "NhWhY",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
