@@ -1,17 +1,5 @@
 [
   {
-    "id": "2008",
-    "code": "nbm2v5k45",
-    "name": "Dog Brush",
-    "description": "Grooming brush for maintaining your dog's coat",
-    "image": "7177O6kbq4L._AC_SX679_.jpg",
-    "price": 121,
-    "category": "Care and cleanliness",
-    "quantity": 40,
-    "inventoryStatus": "INSTOCK",
-    "rating": 4
-  },
-  {
     "id": "2009",
     "code": "hj45nmo87",
     "name": "Dog Raincoat",
