@@ -300,5 +300,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "image": "p-c-8.jpg",
+    "name": "Cliny Eye ",
+    "description": "Dog Eye Wash Drops & Tear Stain Remover, Cleaner , Eye Infection Treatment Helps Prevent Pink Eye, Relief Allergies  Safe for small dog",
+    "inventoryStatus": "instock",
+    "category": "Care and cleanliness",
+    "quantity": 75,
+    "price": 260,
+    "id": "s753Q",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
