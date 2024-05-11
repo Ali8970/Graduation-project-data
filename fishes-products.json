@@ -245,5 +245,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Aquarium Decoration Rock Caves",
+    "image": "71SEZ+cSsLL._AC_SL1500_.jpg",
+    "description": "The aquarium cave is made of ceramic with the function of filtering water, with very flat and smooth edges, and is definitely very safe for your fish. Imitate the natural stone texture to create a more natural visual effect.",
+    "inventoryStatus": "instock",
+    "category": "Care and cleanliness",
+    "price": 699,
+    "quantity": 200,
+    "id": "iLrJj",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
