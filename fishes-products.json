@@ -24,5 +24,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Horizone Tropical Fish Food Pellets - 180g",
+    "description": "It is highly nutritious, natural flavor economical daily diet food. It helps to reduce colour fading and increases fish resistance from diseases.",
+    "image": "91Ga1rY4q0L._AC_SL1500_.jpg",
+    "inventoryStatus": "instock",
+    "category": "Foods",
+    "price": 999,
+    "quantity": 80,
+    "id": "6HskT",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
