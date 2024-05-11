@@ -365,5 +365,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "image": "p-c-1.jpeg",
+    "name": "FP Brush Slicker Gray",
+    "description": "This can remove the floating hair on the pet's surface, remove tangles and dirt, and will not harm the skin",
+    "inventoryStatus": "instock",
+    "category": "Care and cleanliness",
+    "price": 280,
+    "quantity": 80,
+    "id": "6bSQB",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
