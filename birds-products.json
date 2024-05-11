@@ -102,5 +102,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "RAFF Fruttovo - daily food supplement",
+    "image": "Fruttovo_1024x1024.jpg",
+    "description": "Choice soft food based on precooked cereals with the addition of tasty dehydrated fruit (apple, cherry, strawberry, apricot), and enriched with egg.",
+    "inventoryStatus": "instock",
+    "price": 650,
+    "quantity": 150,
+    "category": "Foods",
+    "id": "X6OJV",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
