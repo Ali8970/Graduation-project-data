@@ -12,5 +12,19 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "image": "p-1.jpg",
+    "name": "Pedigree Chicken & Vegetables, Dry Dog Food ",
+    "description": "No artificial colors and flavors\nNo added sugars\nPedigree dry recipes help ensure healthy digestion\nPackaging May Vary (10Kg)",
+    "inventoryStatus": "instock",
+    "category": "Foods",
+    "price": 600,
+    "quantity": 45,
+    "id": "9bW0X",
+    "code": "rYHV1",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
