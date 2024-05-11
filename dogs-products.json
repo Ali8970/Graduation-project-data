@@ -404,5 +404,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "image": "p-h-10.jpg",
+    "name": "Nyganmelloz Cute House Dog & Warm sofa",
+    "description": "Washable material that is easy to maintain, folds flat, great for travel, very portable and lightweight body",
+    "inventoryStatus": "instock",
+    "category": "Homes",
+    "quantity": 25,
+    "price": 580,
+    "id": "pXD2L",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
