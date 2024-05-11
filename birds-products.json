@@ -24,5 +24,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Nektar Plus",
+    "description": "the carbohydrates in NEKTAR-PLUS have been composed to copy nectar and provide the bird's basal metabolism with the necessary energy. In the main the essential protein is already in its digested form, that is sophisticated amino acids in the natural L form, plus bee pollen.",
+    "image": "nektar-plus-600_1400x.webp",
+    "inventoryStatus": "instock",
+    "category": "Foods",
+    "price": 999,
+    "quantity": 80,
+    "id": "wUlpi",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
