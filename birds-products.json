@@ -141,5 +141,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Mango Poop Swoop Wipes",
+    "description": "A quick and easy way to clean bird cages, toys, walls, nest boxes, with a safe product. Can be used wherever and whenever your bird delivers the need.",
+    "image": "7c4b92a5-fc4d-439e-b430-e405c50048ee_1.867a6bc6f84924b59db0e3fa79786943.webp",
+    "inventoryStatus": "instock",
+    "category": "Care and cleanliness",
+    "price": 1200,
+    "quantity": 50,
+    "id": "Jt3fa",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
