@@ -349,5 +349,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Scotch-Brite Pet",
+    "description": "Scotch-Brite Pet Extra Sticky Lint Roller 48 Sheets | Ideal for cleaning animal hair from Clothes and Fabric | Portable and Reusable Lint Remover Brush Clothes, Sofa, Carpet | 1 pet roller/pack.",
+    "image": "cc8.jpg",
+    "inventoryStatus": "instock",
+    "category": "Care and cleanliness",
+    "price": 199,
+    "quantity": 50,
+    "id": "AF4NT",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
