@@ -219,5 +219,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Cat Bed Scratcher",
+    "description": "Cat Bed Scratcher Pet Small Villa House Wooden Tunnel Condo Ladder Self-Assembled Kitten Lounge Scratching Cardboard 4 Sided Scratching for Indoor Outdoor Kitty Suitable Small Medium Large Cats Kitty.",
+    "image": "ch8.jpg",
+    "inventoryStatus": "instock",
+    "category": "Homes",
+    "price": 299,
+    "quantity": 180,
+    "id": "c3APs",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
