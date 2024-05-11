@@ -323,5 +323,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Steamy Cat Brush 3 in 1",
+    "description": "Steamy Cat Brush, 3 in 1 Cat Steamy Brush Cleanser, Self Cleaning Cat Grooming for Removing Tangled and Loosse Hair, Pet Brush for Long and Short Hair Dogs and Cats (White).",
+    "image": "cc6.jpg",
+    "inventoryStatus": "instock",
+    "category": "Care and cleanliness",
+    "price": 400,
+    "quantity": 200,
+    "id": "hmHUz",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
