@@ -427,5 +427,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "AirTag Cat Collar",
+    "description": "AirTag Cat Collar, Reflective Kitten Collar Breakaway Air Tag Cat Collar, Cat Collar with AirTag Holder and Bell, Lightweight Cat Collars for Girl Boy Cats Kittens Puppies (White).",
+    "image": "ca4.jpg",
+    "inventoryStatus": "instock",
+    "category": "Accessories",
+    "price": 199,
+    "quantity": 120,
+    "id": "DajVP",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
