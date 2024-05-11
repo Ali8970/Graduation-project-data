@@ -1,17 +1,5 @@
 [
   {
-    "id": "3000",
-    "code": "c01fdo4g7",
-    "name": "Premium Cat Food",
-    "description": "Healthy and nutritious premium cat food",
-    "image": "61uz6kLKY3L._AC_SX679_.jpg",
-    "price": 90,
-    "category": "Foods",
-    "quantity": 50,
-    "inventoryStatus": "INSTOCK",
-    "rating": 5
-  },
-  {
     "id": "3001",
     "code": "c23nwl633",
     "name": "Cat Collar",
