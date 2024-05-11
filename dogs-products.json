@@ -274,5 +274,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "image": "p-c-10.jpg",
+    "name": " Roller Hair Remover for Dog",
+    "description": "ECO-friendly & reusable: Easily remove dog hair from furniture with the reusable roller Simply twist and empty the box and it's ready again",
+    "inventoryStatus": "instock",
+    "category": "Care and cleanliness",
+    "quantity": 100,
+    "price": 260,
+    "id": "5Qo23",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
