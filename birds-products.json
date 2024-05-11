@@ -37,5 +37,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Lory Nectar Blessing's",
+    "description": "Complete lory diet made up from all natural ingredients to simulate diets as eaten in the wild. Includes protein, fruits, and vegetables milled, contains low iron, low in vitamins A & C.",
+    "image": "Lory_nectar_1400x.jpg",
+    "inventoryStatus": "instock",
+    "category": "Foods",
+    "price": 750,
+    "quantity": 120,
+    "id": "7KvZx",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
