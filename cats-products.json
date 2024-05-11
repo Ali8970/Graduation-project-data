@@ -1,17 +1,5 @@
 [
   {
-    "id": "3004",
-    "code": "d98bsdf34",
-    "name": "Cat Toy",
-    "description": "Interactive toy for mental stimulation and exercise",
-    "image": "611wYPcEZ-L._AC_SX679_.jpg",
-    "price": 20,
-    "category": "Accessories",
-    "quantity": 80,
-    "inventoryStatus": "INSTOCK",
-    "rating": 4
-  },
-  {
     "id": "3005",
     "code": "d23nds42k",
     "name": "Cat Bed",
