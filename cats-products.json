@@ -258,5 +258,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Cat Steam Brush - 3 In 1",
+    "image": "cc1.jpg",
+    "description": "This Steamy Cat Brush Is a Versatile Addition to Your Pet Care Routine. It Effectively Tackles Problems like Tangling and Matted Fur, Making It an Essential Tool for Pet Owners.",
+    "inventoryStatus": "instock",
+    "category": "Care and cleanliness",
+    "price": 570,
+    "quantity": 100,
+    "id": "CoOp6",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
