@@ -1,17 +1,5 @@
 [
   {
-    "id": "2001",
-    "code": "d23nwl633",
-    "name": "Dog Collar",
-    "description": "Stylish and durable dog collar for everyday use",
-    "image": "rd-reflective-martingale-dog-collar.jpg",
-    "price": 120,
-    "category": "Accessories",
-    "quantity": 100,
-    "inventoryStatus": "INSTOCK",
-    "rating": 4
-  },
-  {
     "id": "2002",
     "code": "z23abz3c1",
     "name": "Dog Shampoo",
