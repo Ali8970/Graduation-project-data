@@ -24,5 +24,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Royal Canin",
+    "description": "Royal Canin Fhn Feline Health Nutrition Indoor 4Kg Cat Dry Food.",
+    "image": "cf3.jpg",
+    "inventoryStatus": "instock",
+    "category": "Foods",
+    "price": 900,
+    "quantity": 80,
+    "id": "JLKVh",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
