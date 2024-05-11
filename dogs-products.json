@@ -196,5 +196,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "image": "p-a-8.jpeg",
+    "name": "LIKER 9 LINE Dog Toy",
+    "description": "Comfortable non-slip woven tape ensures the safety of your hands , ball is lightweight, manoeuvrable and easy to throw",
+    "inventoryStatus": "instock",
+    "category": "Accessories",
+    "quantity": 50,
+    "price": 200,
+    "id": "8ndWI",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
