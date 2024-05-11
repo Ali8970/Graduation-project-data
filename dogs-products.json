@@ -493,5 +493,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "image": "rest-p-h-7.jpg",
+    "name": "Petmate Barnhome 53 cm * 49 cm * 72 cm",
+    "description": " Outdoor Dog House Durable Protection: This Dog house's all plastic construction and rear air ventilations system fleas and provides long lasting protection",
+    "inventoryStatus": "instock",
+    "category": "Homes",
+    "price": 800,
+    "quantity": 25,
+    "id": "cdJaM",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
