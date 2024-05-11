@@ -219,5 +219,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Coat Rescue",
+    "image": "coat-rescue_1400x.webp",
+    "description": "May help support healthy skin and a shiny coat in pets. Symptoms: Smelly skin and ears Earwax buildup Greasy coat Dandruff Seborrhea Benefits: No harsh chemicals No known side effects.",
+    "inventoryStatus": "instock",
+    "category": "Care and cleanliness",
+    "price": 599,
+    "quantity": 50,
+    "id": "T8YEA",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
