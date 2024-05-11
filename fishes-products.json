@@ -206,5 +206,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Aquarium Landscaping Fish Tank",
+    "image": "51wYfro4XEL._AC_.jpg",
+    "description": "Vivid Artificial Coral: The coral style plastic plant can not only decorate your aquarium but also provide fish with a comforting shelter.",
+    "inventoryStatus": "instock",
+    "category": "Care and cleanliness",
+    "price": 699,
+    "quantity": 90,
+    "id": "O2LI1",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
