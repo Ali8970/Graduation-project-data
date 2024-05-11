@@ -193,5 +193,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "7 Pack Fish Tank Decoration",
+    "image": "61bc4mRoYsL._AC_.jpg",
+    "description": "MissTiara 7 Pack Fish Tank Decoration Faux Plastic Plants Aquarium Decoration Set.",
+    "inventoryStatus": "instock",
+    "category": "Care and cleanliness",
+    "price": 699,
+    "quantity": 200,
+    "id": "txoLT",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
