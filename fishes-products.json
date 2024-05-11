@@ -336,5 +336,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Mini Small Fish Tank",
+    "image": "51fVwLvhnkL._AC_.jpg",
+    "description": "Mini Small Fish Tank with LED Light Small Aquarium Kits Desktop Room Decorations.",
+    "inventoryStatus": "instock",
+    "category": "Homes",
+    "price": 4999,
+    "quantity": 200,
+    "id": "fx826",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
