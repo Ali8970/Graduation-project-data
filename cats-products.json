@@ -102,5 +102,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Kitekat Tuna Dry Cat Food 1.4kg",
+    "description": "Crunchy kibbles, Omega 6 for healthy skin and coat Calcium & Phosphorus for strong bones and teeth, Vitamin E to support the immune system.",
+    "image": "cf9.jpg",
+    "inventoryStatus": "instock",
+    "category": "Foods",
+    "price": 650,
+    "quantity": 150,
+    "id": "MjhIU",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
