@@ -128,5 +128,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Cat Tunnel Bed",
+    "description": "Cat Tunnel Bed, Detachable Felt Cat Nest, Round Donut Felt Pet Nest, Four Seasons Available cat nest, Semi-Closed Washable Cat Tunnel Nest, Indoor Cat Hideout, Cat Condo (Light Gray).",
+    "image": "ch1.jpg",
+    "inventoryStatus": "instock",
+    "category": "Homes",
+    "price": 300,
+    "quantity": 100,
+    "id": "94FQ3",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
