@@ -167,5 +167,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Arabest Aquarium Artificial Plastic Plants",
+    "description": "Our aquarium artificial plastic plants are made of environmentally friendly materials, putting them in the water will not affect the health of the fish and the water quality.",
+    "image": "71f2l0DWFsL._AC_SL1000_.jpg",
+    "inventoryStatus": "instock",
+    "category": "Care and cleanliness",
+    "price": 299,
+    "quantity": 120,
+    "id": "I8xbH",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
