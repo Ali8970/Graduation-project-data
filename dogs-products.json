@@ -1,17 +1,5 @@
 [
   {
-    "id": "2009",
-    "code": "hj45nmo87",
-    "name": "Dog Raincoat",
-    "description": "Waterproof raincoat to keep your dog dry during rainy walks",
-    "image": "00609a8f-8692-4a37-9ad3-e98ed6aa4f29.jpg",
-    "price": 125,
-    "category": "Accessories",
-    "quantity": 20,
-    "inventoryStatus": "INSTOCK",
-    "rating": 4
-  },
-  {
     "id": "2010",
     "code": "l32nvld32",
     "name": "Dog Nail Clippers",
