@@ -11,5 +11,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Sheba Premium Loaf Chicken",
+    "image": "cf2.jpg",
+    "description": "Treat your furry friend to the delectable taste of tender chicken loaf. Sheba Chicken Premium Loaf Pouch Wet Kitten Food is a culinary delight that will have your cat purring with satisfaction wanting a second dinner.",
+    "inventoryStatus": "instock",
+    "category": "Foods",
+    "price": 800,
+    "quantity": 50,
+    "id": "wjtpK",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
