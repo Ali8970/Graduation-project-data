@@ -336,5 +336,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Pet Grooming Glove",
+    "description": "DELOMO Pet Grooming Glove - Gentle Deshedding Brush Glove - Efficient Pet Hair Remover Mitt - Enhanced Five Finger Design - Perfect for Dog & Cat with Long & Short Fur - 1 Pair.",
+    "image": "cc7.jpg",
+    "inventoryStatus": "instock",
+    "category": "Care and cleanliness",
+    "price": 299,
+    "quantity": 90,
+    "id": "4bcSZ",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
