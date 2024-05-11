@@ -326,5 +326,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "image": "p-c-6.jpg",
+    "name": "Petty - Sensitive Pet Shampoo 60 ml",
+    "description": "Waterless & No Rinse This hypoallergenic pets shampoo can create a quick and easy cleanup without a full bath. Highly recommended for dogs, which hate bathing ",
+    "inventoryStatus": "instock",
+    "category": "Care and cleanliness",
+    "quantity": 85,
+    "price": 250,
+    "id": "0WjuV",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
