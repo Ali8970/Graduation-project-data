@@ -154,5 +154,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Potty Pickup",
+    "description": "Potty Pickup is a bird safe upholstery and fabric cleaner. Takes care of odor and stains of birdie poop. Keeps your carpet, upholstery, fabrics, even clothes looking better longer. Dual action of cleaner and deodorizer in one easy step...making your bird maintenance easier!",
+    "image": "clean-bird-product1.png",
+    "inventoryStatus": "instock",
+    "category": "Care and cleanliness",
+    "price": 99,
+    "quantity": 60,
+    "id": "mV1Tw",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
