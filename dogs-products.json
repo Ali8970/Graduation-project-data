@@ -352,5 +352,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "image": "rest-p-c-3.jpg",
+    "name": "3 in 1 Petty Shower Brush",
+    "description": "3 in 1 Pet Shower Brush Comb - 2 Pack Soft Silicone Massage Brush for Dogs and , with Shampoo Dispenser, Leakproof Design, Soft Silicone Dog Shampoo Brush",
+    "inventoryStatus": "instock",
+    "category": "Care and cleanliness",
+    "price": 220,
+    "quantity": 85,
+    "id": "9xNZi",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
