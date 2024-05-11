@@ -76,5 +76,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "JBL PRONOVO BETTA GRANO S 20ml",
+    "image": "81TxcYlXWIL._AC_SL1500_.jpg",
+    "description": "Prebiotic & sinking aquarium fish food: dedicated dietary fibres in the food supply the beneficial intestinal bacteria with nutrition for healthy digestion.",
+    "inventoryStatus": "instock",
+    "category": "Foods",
+    "price": 950,
+    "quantity": 250,
+    "id": "UxwvM",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
