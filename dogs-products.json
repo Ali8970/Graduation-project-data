@@ -287,5 +287,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "image": "p-c-9.jpg",
+    "name": "AUDI-AL  dog herbal ear Drops for Dogs",
+    "description": " prevents ear odors: Regular use of  Herbal Ear Drops helps prevent unpleasant odors caused by ear discomfort, keeping your pets' ears fresh and clean",
+    "inventoryStatus": "instock",
+    "category": "Care and cleanliness",
+    "price": 280,
+    "quantity": 160,
+    "id": "8lk8g",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
