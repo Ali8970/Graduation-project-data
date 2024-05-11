@@ -63,5 +63,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Formula Plus",
+    "image": "formula-plus-30g_1400x.webp",
+    "description": "Designed to be added to hand feeding formula to provide the unique health and nutrition ingredients only available through the BCC products. These ingredients include a revolutionary white blood cell support system, flourish herbals and much more! Use 30g per 5 pounds of hand feeding formula.",
+    "inventoryStatus": "instock",
+    "category": "Foods",
+    "price": 725,
+    "quantity": 213,
+    "id": "n2xv5",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
