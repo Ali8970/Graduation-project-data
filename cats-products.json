@@ -1,17 +1,5 @@
 [
   {
-    "id": "3001",
-    "code": "c23nwl633",
-    "name": "Cat Collar",
-    "description": "Stylish and durable cat collar for everyday use",
-    "image": "71l3oLsE7ML._AC_SX679_.jpg",
-    "price": 30,
-    "category": "Accessories",
-    "quantity": 100,
-    "inventoryStatus": "INSTOCK",
-    "rating": 4
-  },
-  {
     "id": "3002",
     "code": "z23abz3c1",
     "name": "Cat Shampoo",
