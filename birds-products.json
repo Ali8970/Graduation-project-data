@@ -50,5 +50,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Nekton Baby-Bird",
+    "description": "NEKTON-Baby-Bird is a complete formula for the successful hand-rearing of all bird chicks. In this product the latest scientific findings in the rearing of young birds have been implemented.",
+    "image": "nekton-baby-bird-400_1400x.webp",
+    "inventoryStatus": "instock",
+    "category": "Foods",
+    "price": 140,
+    "quantity": 50,
+    "id": "4uBkU",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
