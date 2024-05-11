@@ -26,5 +26,19 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "image": "p-2.jpg",
+    "name": "BAIRO Puppy Chicken & Milk ",
+    "description": "High-quality meat and egg proteins are combined to provide a balance of protein for your puppy, which contains the essential amino acids to support muscle maintenance and repair (5kg)",
+    "inventoryStatus": "instock",
+    "category": "Foods",
+    "price": 470,
+    "quantity": 75,
+    "id": "sBCDt",
+    "code": "E6dmD",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
