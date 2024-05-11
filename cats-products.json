@@ -284,5 +284,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Cat Nail Clippers Baytion Pet",
+    "description": "Cat Nail Clippers Baytion Pet Nail Clippers for small animals,Cat Claw Cutters Scissors for Guinea Pigs, Birds, Puppies, Kittens, Gerbils, Hamsters and Rabbits (Cat Nail Clipper).",
+    "image": "cc3.jpg",
+    "price": 99,
+    "quantity": 120,
+    "category": "Care and cleanliness",
+    "inventoryStatus": "instock",
+    "id": "XeWBv",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
