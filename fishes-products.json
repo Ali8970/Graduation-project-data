@@ -128,5 +128,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Aquarium Artificial Plastic Plants Decoration",
+    "image": "71tckEkO4PL._AC_SL1000_.jpg",
+    "description": "Aquarium Artificial Plastic Plants Decoration, Pink Cherry Blossom Tree and Grass, Fish Tank Decor Tree Set, Aquarium Fish Tank Decorations.",
+    "inventoryStatus": "instock",
+    "category": "Care and cleanliness",
+    "price": 570,
+    "quantity": 90,
+    "id": "wx1CV",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
