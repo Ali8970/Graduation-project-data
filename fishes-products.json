@@ -440,5 +440,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "1 Set Aquarium Accessories",
+    "description": "Aquarium artificial plants: add natural style to the fish tank and also bring you new view.",
+    "image": "71Y6pILrkWL._AC_SL1500_.jpg",
+    "inventoryStatus": "instock",
+    "category": "Accessories",
+    "price": 99,
+    "quantity": 50,
+    "id": "Ox7Yz",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
