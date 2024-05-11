@@ -63,5 +63,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Whiskas Gourmet Seafood Dry Food Adult 1+ years 3kg",
+    "description": "HIGHEST LEVEL OF PROTEIN- Whiskas Gourmet Seafood kibbles include the highest levels of protein that form the most important source of energy in the dry food for cats so they can stay active and healthy.",
+    "image": "cf6.jpg",
+    "inventoryStatus": "instock",
+    "category": "Foods",
+    "price": 725,
+    "quantity": 213,
+    "id": "jWQdU",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
