@@ -1,17 +1,5 @@
 [
   {
-    "id": "2003",
-    "code": "24asdw2eg",
-    "name": "Dog House",
-    "description": "Cozy and weather-resistant dog house for indoor or outdoor use",
-    "image": "s-l960.png",
-    "price": 120,
-    "category": "Homes",
-    "quantity": 10,
-    "inventoryStatus": "INSTOCK",
-    "rating": 5
-  },
-  {
     "id": "2004",
     "code": "d98bsdf34",
     "name": "Chew Toy",
