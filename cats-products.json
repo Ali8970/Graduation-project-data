@@ -193,5 +193,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Pet Beds for Cats and Small Dogs",
+    "description": "Pet Beds for Cats and Small Dogs, Cat Beds Cave Cat House Cat Tent with Removable Washable Cushioned Pillow, Soft and Self Warming Kitten beds,Cat Beds & Furniture.",
+    "image": "ch6.jpg",
+    "inventoryStatus": "instock",
+    "category": "Homes",
+    "price": 699,
+    "quantity": 213,
+    "id": "Ipk9G",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
