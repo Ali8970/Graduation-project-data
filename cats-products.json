@@ -271,5 +271,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "2 PACK Cat Self Groomer",
+    "description": "2 PACK Cat Self Groomer with Catnip | Cat Corner Groomer Brush | Wall Brush Self Massage Tool for Long & Short Fur | Kitten Cats Dogs | Pet Grooming Supplies.",
+    "image": "cc2.jpg",
+    "inventoryStatus": "instock",
+    "category": "Care and cleanliness",
+    "price": 699,
+    "quantity": 80,
+    "id": "ZdDAZ",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
