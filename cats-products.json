@@ -154,5 +154,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Fluffy Cat House Dog Bed",
+    "description": "Fluffy Cat House Dog Bed, Cat Cave Nest Soft Warm Puppy Tent with Removable Washable Cushion Cute Pet House for Cat and Dog.",
+    "image": "ch3.jpg",
+    "inventoryStatus": "instock",
+    "category": "Foods",
+    "price": 400,
+    "quantity": 50,
+    "id": "b01Df",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
