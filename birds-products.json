@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "name": "Rio Bricket - 1k",
+    "description": "bird feed specially formulated to provide essential nutrients and energy for wild birds. Each 1-kilogram bag contains a carefully crafted blend of high-quality seeds, grains, and pellets to attract a variety of bird species to your backyard or garden.",
+    "image": "bird-feed-product1.jpg",
+    "inventoryStatus": "instock",
+    "category": "Foods",
+    "price": 255,
+    "quantity": 30,
+    "id": "Eknkq",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
+  }
+]
