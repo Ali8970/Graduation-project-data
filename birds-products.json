@@ -349,5 +349,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Lucca Junior Bird Drinker - STA",
+    "image": "c023_1024x1024.webp",
+    "description": "Bird drinker with ring suitable for cages with vertical wires. 9 oz Water Tube with Ring to Hold on to Cage 4 inch x 3.5 inch.",
+    "inventoryStatus": "instock",
+    "category": "Homes",
+    "price": 199,
+    "quantity": 180,
+    "id": "gfLXs",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
