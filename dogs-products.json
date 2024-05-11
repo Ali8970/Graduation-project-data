@@ -1,17 +1,5 @@
 [
   {
-    "id": "2004",
-    "code": "d98bsdf34",
-    "name": "Chew Toy",
-    "description": "Durable chew toy for dental health and entertainment",
-    "image": "png-clipart-dog-toys-puppy-chew-toy-bone-dog-purple-child-thumbnail.png",
-    "price": 110,
-    "category": "Accessories",
-    "quantity": 80,
-    "inventoryStatus": "INSTOCK",
-    "rating": 4
-  },
-  {
     "id": "2005",
     "code": "d23nds42k",
     "name": "Dog Bed",
