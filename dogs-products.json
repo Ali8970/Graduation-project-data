@@ -53,5 +53,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "image": "p-9.jpg",
+    "name": "Piper Pure Chicken",
+    "description": "Piper Platinum Pure Chicken with Brown Rice (400g)",
+    "inventoryStatus": "instock",
+    "category": "Foods",
+    "price": 800,
+    "quantity": 50,
+    "id": "7DrKR",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
