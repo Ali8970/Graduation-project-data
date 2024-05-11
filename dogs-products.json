@@ -1,17 +1,5 @@
 [
   {
-    "id": "2000",
-    "code": "d01fdo4g7",
-    "name": "Premium Dog Food",
-    "description": "Healthy and nutritious premium dog food",
-    "image": "Birbo Premium Adult Dog Dry Food With Meat_.png",
-    "price": 100,
-    "category": "Foods",
-    "quantity": 50,
-    "inventoryStatus": "INSTOCK",
-    "rating": 5
-  },
-  {
     "id": "2001",
     "code": "d23nwl633",
     "name": "Dog Collar",
