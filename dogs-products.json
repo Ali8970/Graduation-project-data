@@ -144,5 +144,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "image": "p-a-2.jpeg",
+    "name": " Kong Classic XXL - Red",
+    "description": "unique natural red rubber formula is extremely durable with an irregular bounce that is perfect for dogs that love to chew Want to extend your playing time? Make sure to stuff with tempting pieces of food",
+    "inventoryStatus": "instock",
+    "category": "Accessories",
+    "price": 350,
+    "quantity": 100,
+    "id": "dPlze",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
