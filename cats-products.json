@@ -245,5 +245,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Cat villa cat House Lux",
+    "description": "Cat villa cat House Lux Cat House Cat Double Decker Cat House Duplex Cat House Cat bed (C).",
+    "image": "ch10.jpg",
+    "inventoryStatus": "instock",
+    "category": "Homes",
+    "price": 2000,
+    "quantity": 20,
+    "id": "8hBpj",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
