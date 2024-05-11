@@ -1,17 +1,5 @@
 [
   {
-    "id": "5001",
-    "code": "f23nwl633",
-    "name": "Fish Tank",
-    "description": "Glass aquarium tank suitable for various fish species",
-    "image": "s-l1600 (3).png",
-    "price": 150,
-    "category": "Homes",
-    "quantity": 50,
-    "inventoryStatus": "INSTOCK",
-    "rating": 4
-  },
-  {
     "id": "5002",
     "code": "z23abz3c1",
     "name": "Aquarium Heater",
