@@ -310,5 +310,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Cat Brush for Shedding and Grooming",
+    "description": "Cat Brush for Shedding and Grooming, Self Cleaning Slicker Brush for Short or Long Haired Cats, Pet Dog Hair Brush for Puppy Kitten Massage Removes Loose Undercoat, Mats, Tangled Hair, Shed Fur.",
+    "image": "cc5.jpg",
+    "inventoryStatus": "instock",
+    "category": "Care and cleanliness",
+    "price": 299,
+    "quantity": 50,
+    "id": "HQzOw",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
