@@ -1,17 +1,5 @@
 [
   {
-    "id": "5000",
-    "code": "f01fdo4g7",
-    "name": "Tropical Fish Food",
-    "description": "Nutritious food flakes for tropical fish species",
-    "image": "s-l1600 (2).jpg",
-    "price": 15,
-    "category": "Foods",
-    "quantity": 100,
-    "inventoryStatus": "INSTOCK",
-    "rating": 5
-  },
-  {
     "id": "5001",
     "code": "f23nwl633",
     "name": "Fish Tank",
