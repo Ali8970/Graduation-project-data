@@ -339,5 +339,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "image": "p-c-4.jpg",
+    "name": "Petty Bath Brush (Green)",
+    "description": "Petty Pet Silicone Bath Brush, Silicone Grooming Brush for Puppies and Dogs, Soothing Massage Brush, Soft Silicone Brush with Shampoo Dispenser",
+    "inventoryStatus": "instock",
+    "category": "Care and cleanliness",
+    "quantity": 50,
+    "price": 199,
+    "id": "lCFhe",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
