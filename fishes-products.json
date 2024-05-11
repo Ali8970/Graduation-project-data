@@ -180,5 +180,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Joyzzz Betta Fish Leaf",
+    "description": "The leaves create an environment similar to their natural habitat, and when betta leaves are introduced into the tank, the betta will begin interacting with the betta fish leaf that day.",
+    "image": "51QYyBqkEvL._AC_SL1000_.jpg",
+    "inventoryStatus": "instock",
+    "category": "Care and cleanliness",
+    "price": 399,
+    "quantity": 60,
+    "id": "RHLps",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
