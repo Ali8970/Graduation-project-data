@@ -76,5 +76,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Insect Patee",
+    "image": "insect-patee-800_1400x.webp",
+    "description": "Complete feed for all insect-eating birds. Balanced complete feed with animal protein and minimum 25% insects.",
+    "inventoryStatus": "instock",
+    "category": "Foods",
+    "price": 950,
+    "quantity": 250,
+    "id": "ooenW",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
