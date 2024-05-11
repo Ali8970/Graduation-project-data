@@ -222,5 +222,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "image": "p-a-3.jpeg",
+    "category": "Accessories",
+    "description": "Super Absorbent Quick Drying: Our dog towels are made of microfiber. So it can absorb more water and dries more quickly than regular towels",
+    "name": "Petty - Soft Dog towel Washable",
+    "inventoryStatus": "instock",
+    "price": 200,
+    "quantity": 100,
+    "id": "eOK4f",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
