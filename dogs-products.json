@@ -430,5 +430,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "image": "p-h-1.jpeg",
+    "name": "Ariika Bed (Stripes) 50 x 35 x 20 cm",
+    "description": "Black and Blue Stripes: A double faced comfortable bed made from a waterproof material and soft fiber stuffing Which makes it comfortable and easy to clean with soap and water",
+    "inventoryStatus": "instock",
+    "category": "Homes",
+    "price": 500,
+    "quantity": 25,
+    "id": "mg2rD",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
