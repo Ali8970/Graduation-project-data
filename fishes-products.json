@@ -258,5 +258,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "3 in 1 Fish Tank with Self Cleaning w/Colorful LED Light",
+    "description": "Provides a quick and stylish foundation for starting your new aquarium. 2-gallon fish tank is the minimum size recommended for bettas. It is equipped with all essential accessories for your home aquarium.",
+    "image": "81hWQKt+qOL._AC_SL1500_.jpg",
+    "inventoryStatus": "instock",
+    "category": "Homes",
+    "price": 1999,
+    "quantity": 100,
+    "id": "EhCrw",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
