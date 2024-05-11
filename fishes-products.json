@@ -401,5 +401,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Arabest Fish Tank Decoration",
+    "description": "Fish tank decorations is resin handicrafts, which is made of high-quality raw materials, with fine workmanship, realistic shapes, non-toxic and harmless.",
+    "image": "61J08YfgPYL._AC_SL1000_.jpg",
+    "inventoryStatus": "instock",
+    "category": "Accessories",
+    "price": 999,
+    "quantity": 90,
+    "id": "09z7o",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
