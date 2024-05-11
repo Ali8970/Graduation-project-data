@@ -453,5 +453,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "3pcs Parrot Chewing Rattan Corn Husk Toys",
+    "image": "71EDoXch2SL._AC_SL1500_.jpg",
+    "description": "Includes 3pcs different types of bird toys: 1x twine-wound wooden pole with palm leaf waved cup and crinkled paper, 1x bamboo ball shredder toy with crinkled paper and colorful corn husk, 1x rattan starfruit with colorful beads.",
+    "inventoryStatus": "instock",
+    "category": "Accessories",
+    "price": 100,
+    "quantity": 150,
+    "id": "K32VT",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
