@@ -157,5 +157,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "image": "p-a-4.jpeg",
+    "name": " Modal Cotton Webbing L ",
+    "description": "sing natural Modal and cotton blend fiber, it is bio-degradable, easy on the skin and the earth yet tough and durable. It is a natural and comfortable choice for daily use (2.0x51-82cm)",
+    "inventoryStatus": "instock",
+    "category": "Accessories",
+    "price": 600,
+    "quantity": 40,
+    "id": "CsmhF",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
