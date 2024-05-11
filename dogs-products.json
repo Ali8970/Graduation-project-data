@@ -1,17 +1,5 @@
 [
   {
-    "id": "2007",
-    "code": "m38dskl93",
-    "name": "Dog Leash",
-    "description": "Strong and reliable dog leash for control during walks",
-    "image": "s-l960 (1).jpg",
-    "price": 118,
-    "category": "Accessories",
-    "quantity": 70,
-    "inventoryStatus": "INSTOCK",
-    "rating": 5
-  },
-  {
     "id": "2008",
     "code": "nbm2v5k45",
     "name": "Dog Brush",
