@@ -1,17 +1,5 @@
 [
   {
-    "id": "2006",
-    "code": "a32fsd56c",
-    "name": "Training Treats",
-    "description": "Delicious and nutritious treats for dog training sessions",
-    "image": "s-l960.jpg",
-    "price": 58,
-    "category": "Foods",
-    "quantity": 60,
-    "inventoryStatus": "INSTOCK",
-    "rating": 4
-  },
-  {
     "id": "2007",
     "code": "m38dskl93",
     "name": "Dog Leash",
