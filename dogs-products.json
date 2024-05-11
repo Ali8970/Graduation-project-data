@@ -417,5 +417,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "image": "p-h-2.jpeg",
+    "name": "Ariika Snoozy Bed Egyptian Fur 40x60x20 cm",
+    "description": "Material : Soft Towel Fur\nFilling: Fiber\nSuitable For: Indoors & Outdoors",
+    "inventoryStatus": "instock",
+    "category": "Homes",
+    "price": 380,
+    "quantity": 30,
+    "id": "S7zyo",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
