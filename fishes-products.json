@@ -271,5 +271,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "PONDON Betta Fish Tank, 2 Gallon Glass",
+    "description": "Provides a quick and stylish foundation for starting your new aquarium. 2-gallon fish tank is the minimum size recommended for bettas. It is equipped with all essential accessories for your home aquarium.",
+    "image": "81pjnWknUfL._AC_SL1500_.jpg",
+    "inventoryStatus": "instock",
+    "category": "Homes",
+    "price": 2500,
+    "quantity": 70,
+    "id": "VghE1",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
