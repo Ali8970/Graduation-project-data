@@ -468,5 +468,18 @@
     "isAddedToCart": false,
     "description": "Made from 100 percent high density premium memory foam\nVelvety soft textured microsuede/microfiber cover\nProvides a comfortable headrest and support for nestling",
     "category": "Homes"
+  },
+  {
+    "image": "p-h-10.jpg",
+    "name": "Nyganmelloz Cute House Dog & Warm sofa",
+    "description": "Washable material that is easy to maintain folds flat great for travel very portable and lightweight body",
+    "inventoryStatus": "instock",
+    "category": "Homes",
+    "price": 580,
+    "quantity": 30,
+    "id": "lJX2a",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
