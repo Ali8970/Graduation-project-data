@@ -401,5 +401,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Cat Collar",
+    "description": "Cat Collar, Collars with Bell and Detachable Bow Tie, Quick Release Safety Collars for Kitten and Cats, Adjustable 20-30cm Suitable for All Domestic Cats (3 Pack).",
+    "image": "ca2.jpg",
+    "inventoryStatus": "instock",
+    "category": "Accessories",
+    "price": 199,
+    "quantity": 50,
+    "id": "1lwUO",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
