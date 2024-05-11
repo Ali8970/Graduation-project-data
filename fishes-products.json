@@ -11,5 +11,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Tetra Min Flakes Aquarium Fish Food, 20 gm",
+    "description": "Complete food in the form of a flake mix for larger freshwater ornamental fish. Mix of seven different types of flake and over 40 high quality raw materials.",
+    "image": "81Sa87oeCnL._AC_SL1500_.jpg",
+    "inventoryStatus": "instock",
+    "category": "Foods",
+    "price": 800,
+    "quantity": 50,
+    "id": "Wp6xw",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
