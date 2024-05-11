@@ -141,5 +141,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Nyganmelloz Foldable Cat House",
+    "description": "Nyganmelloz Foldable Cat House,2-Storey Indoor Large Cats Cave Kitten Beds Covered Cat Bed Furniture Cat Tree with Scratch Pad Hideaway Cave, Kitty Tunnel Sleeping Cute Modern Cat Condo Cat Stool Play.",
+    "image": "ch2.jpg",
+    "inventoryStatus": "instock",
+    "category": "Homes",
+    "quantity": 50,
+    "price": 1010,
+    "id": "7hMFa",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
