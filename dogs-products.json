@@ -261,5 +261,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "image": "rest-p-c-2.jpg",
+    "name": "XUEDIAO shampoo 500 ml",
+    "description": " Anti-Itch Dog Shampoo & Conditioner with/Odor Control Puppy Grooming & Dandruff & Natural Professional Grade Perfume for Dogs",
+    "inventoryStatus": "instock",
+    "category": "Care and cleanliness",
+    "quantity": 120,
+    "price": 210,
+    "id": "3gWwc",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
