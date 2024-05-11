@@ -284,5 +284,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "York Cage ideal for finches and canaries - 2GR",
+    "description": "York Cage ideal for finches and canaries. By 2GR. Solid construction, Crack-resistant base, Slide-out tray & grill tray for easy cleaning, Inside perch, Large front door for easy access, Easy to clean bird-cage. '9 W  x 6.2 D x 14 H'",
+    "image": "019_1024x1024.webp",
+    "inventoryStatus": "instock",
+    "category": "Homes",
+    "price": 1999,
+    "quantity": 50,
+    "id": "sRuTu",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
