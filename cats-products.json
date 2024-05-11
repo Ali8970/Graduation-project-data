@@ -1,17 +1,5 @@
 [
   {
-    "id": "3006",
-    "code": "a32fsd56c",
-    "name": "Cat Treats",
-    "description": "Delicious treats for rewarding your cat",
-    "image": "s-l1600 (1).png",
-    "price": 15,
-    "category": "Foods",
-    "quantity": 60,
-    "inventoryStatus": "INSTOCK",
-    "rating": 4
-  },
-  {
     "name": "Cat Leash",
     "image": "s-l960 (3).jpg",
     "description": "Lightweight leash for safe outdoor adventures with your cat",
