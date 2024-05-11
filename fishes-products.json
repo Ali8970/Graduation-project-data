@@ -219,5 +219,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Fish Tank Plastic Plants",
+    "image": "71S+A0R5hML._AC_SL1126_.jpg",
+    "description": "1 piece resin Cave Rock (4x4.6 inch). 6 pieces plastic plants in different colors and sizes (2.36 ~ 8 inch). All the colors are vibrant and vivid, even in the water, thus can beautify your aquarium.",
+    "inventoryStatus": "instock",
+    "category": "Care and cleanliness",
+    "price": 599,
+    "quantity": 500,
+    "id": "fvdfA",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
