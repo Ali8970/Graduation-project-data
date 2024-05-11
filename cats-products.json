@@ -50,5 +50,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "SKY-TOUCH Adult Dry Cat Food",
+    "description": "Dry Cat Food Natural Healthy Chicken Dry Cat Food with Multitude Minerals Vitamins and Digestive Probiotics 2.39KG.",
+    "image": "cf5.jpg",
+    "inventoryStatus": "instock",
+    "category": "Foods",
+    "price": 210,
+    "quantity": 50,
+    "id": "IQf8b",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
