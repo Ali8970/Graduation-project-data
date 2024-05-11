@@ -154,5 +154,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "MissTiara 15 Pieces Fish Tank Decoration",
+    "description": "Great Combination: 1 Castle(5.51in x 2.37in x 5.12in), 1 Broken Barrel(3.15in x 1.57in x 1.57in), 4 tall plastic plants(8.27in), 2 medium plastic plants(4.72in),2 small plastic plants, 3 mini size artificial goldfishes, 2 starfishes(1.57in)",
+    "image": "71mXQhJJX5L._AC_SL1278_.jpg",
+    "inventoryStatus": "instock",
+    "category": "Care and cleanliness",
+    "price": 599,
+    "quantity": 60,
+    "id": "HUYhP",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
