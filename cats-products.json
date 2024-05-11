@@ -375,5 +375,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Self Cleaning Slicker Brush",
+    "image": "cc10.jpg",
+    "description": "Self Cleaning Slicker Brush Cat and Dog Pet Hair Removal Brush-Groomer Shedding Grooming Tools Combs Rakes,Gently Removes Loose Undercoat, Mats and Tangled Hair.",
+    "inventoryStatus": "instock",
+    "category": "Care and cleanliness",
+    "price": 399,
+    "quantity": 300,
+    "id": "MnP5j",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
