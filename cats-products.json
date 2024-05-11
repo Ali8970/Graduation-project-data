@@ -414,5 +414,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Kitten Harness",
+    "description": "Toddmomy Harness Kitten Harness Dog Harness Cat Supplies Kitten Accessories Cat Harness and Leash Cat Harnesses Cat Harness Escape Cat Collar Harness for Cats Cat Leash Cat Vest",
+    "image": "ca3.jpg",
+    "inventoryStatus": "instock",
+    "category": "Accessories",
+    "price": 200,
+    "quantity": 80,
+    "id": "oaRrr",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
