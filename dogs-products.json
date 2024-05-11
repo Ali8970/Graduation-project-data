@@ -92,5 +92,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "image": "p-8.jpg",
+    "name": "Dry Dog food with Salmon ",
+    "description": "\"description\": \"Pro Plan Purina Pro for Sensitive Skin Medium and Large Senior +7 (3kg)",
+    "inventoryStatus": "instock",
+    "category": "Foods",
+    "price": 600,
+    "quantity": 45,
+    "id": "LCDwI",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
