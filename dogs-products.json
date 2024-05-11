@@ -1,17 +1,5 @@
 [
   {
-    "id": "2010",
-    "code": "l32nvld32",
-    "name": "Dog Nail Clippers",
-    "description": "Safe and easy-to-use nail clippers for trimming your dog's nails",
-    "image": "Mr-Pen-Cat-Nail-Clipper-Cat-Nail-Trimmers-Cat-Claw-Clippers-Cat-Claw-Trimmers_7169e280-53e5-4c98-a59f-5b289835fbdb.e830bb78d843f706a9.webp",
-    "price": 110,
-    "category": "Care and cleanliness",
-    "quantity": 35,
-    "inventoryStatus": "INSTOCK",
-    "rating": 4
-  },
-  {
     "name": "Dog Dental Chew",
     "image": "1-dentalife-dog-large-daily-mhi-1080x1080_0.png",
     "description": "Chew toy designed to promote dental health by cleaning teeth and gums",
