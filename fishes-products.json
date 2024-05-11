@@ -349,5 +349,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Hygger Horizon 8 Gallon LED Glass",
+    "image": "71S0t0rHiTL._AC_SL1300_.jpg",
+    "description": "Aquarium Kit for Starters with 7W Power Filter Pump, 18W Colored led Light, Wide View Curved Shape Fish Tank with Undetachable 3D Rockery Background Decor.",
+    "inventoryStatus": "instock",
+    "category": "Homes",
+    "price": 9000,
+    "quantity": 120,
+    "id": "1DXXW",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
