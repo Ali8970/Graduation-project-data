@@ -492,5 +492,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Mixed Sea Shells",
+    "image": "81LQ4tHkhOL._AC_SL1500_.jpg",
+    "description": "Package includes about 30 or more pieces mixed beach sea shells. As shown in the picture, random matching includes seashells, starfish, tiny volutes varieties and sea snail, etc.",
+    "inventoryStatus": "instock",
+    "category": "Accessories",
+    "price": 399,
+    "quantity": 80,
+    "id": "np6yj",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
