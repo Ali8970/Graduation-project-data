@@ -180,5 +180,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Cat House for Indoor Cat",
+    "description": "NEXT VOGUE Cat House for Indoor Cat, Cat Condo Bed, 3 Layer Cat Bed with Scratch Pad and Hideaway Cube, Large Enclosed Cat Bed for Multi Cats Family, 62x40x40 CM (Beige).",
+    "image": "ch5.jpg",
+    "inventoryStatus": "instock",
+    "category": "Homes",
+    "price": 599,
+    "quantity": 50,
+    "id": "s0uMI",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
