@@ -115,5 +115,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Tropical tubi cubi 100ml/10g",
+    "image": "712T5MSfugL._AC_SL1500_.jpg",
+    "description": "High-calorie, protein-rich food, popular and eagerly eaten by fish, freeze-drying eliminates dangerous pathogens while retaining nutrients and vitamins.",
+    "inventoryStatus": "instock",
+    "category": "Foods",
+    "price": 499,
+    "quantity": 1000,
+    "id": "GH8K1",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
