@@ -63,5 +63,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Tetra Fin 500ml - 100G - Fish Food Flakes, Multicolor",
+    "image": "71gZ4qQoCXS._AC_SL1500_.jpg",
+    "description": "Optimally balanced flake mixture for a varied diet, contains all important nutrients as well as trace elements.",
+    "inventoryStatus": "instock",
+    "category": "Foods",
+    "price": 725,
+    "quantity": 80,
+    "id": "cIdzt",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
