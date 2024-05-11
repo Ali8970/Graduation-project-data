@@ -284,5 +284,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Fluval Sea Flex Saltwater Aquarium Kit 123L- Black",
+    "description": "Full spectrum Marine 3.0 LED operates via the FluvalSmart App on your mobile device.",
+    "image": "71+m1KyCQ9L._AC_SL1000_.jpg",
+    "inventoryStatus": "instock",
+    "category": "Homes",
+    "price": 1999,
+    "quantity": 50,
+    "id": "TZrv4",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
