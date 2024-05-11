@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "name": "Thomas Cat Litter, 16 L, Pack of 1",
+    "image": "cf1.jpg",
+    "description": "Thomas Cat Litter is the suitable choice for cats that are equally picky and discerning, as it is made of all natural minerals that are safe for the use of your furry little ones and soft on their paw pads.",
+    "inventoryStatus": "instock",
+    "category": "Foods",
+    "price": 139,
+    "quantity": 100,
+    "id": "lMJK9",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
+  }
+]
