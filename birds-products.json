@@ -245,5 +245,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Mango African Grey Bath Spray",
+    "image": "african_bath_spray_1400x.webp",
+    "description": "This is meant to compliment your birds bathing, as it soothes and moisturize the skin and washes away the dead skin cells that causes the bird to itch.",
+    "inventoryStatus": "instock",
+    "category": "Care and cleanliness",
+    "price": 699,
+    "quantity": 300,
+    "id": "ewgiv",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
