@@ -128,5 +128,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Poop-Off Bird Poop Remover",
+    "description": "A very pleasant product fragrance has been tested to be safe around all breeds of birds and helps to control cage smells. Adjustable sprayer head assures even application and reduces.",
+    "image": "poop-off-spray_1400x.webp",
+    "inventoryStatus": "instock",
+    "category": "Care and cleanliness",
+    "price": 390,
+    "quantity": 100,
+    "id": "ozZ8l",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
