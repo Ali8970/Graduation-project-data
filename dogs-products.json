@@ -468,5 +468,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "image": "p-h-6.jpg",
+    "name": "PetZoom Lounge Water Resistant Car Seat Cover 140*120 CM",
+    "description": "Petzoom loungee waterproof car seat cover protects car upholstery from dirt and moisture waterproof slits folds for storage fits most vehicles back seats machine washable",
+    "inventoryStatus": "instock",
+    "category": "Homes",
+    "price": 590,
+    "quantity": 20,
+    "id": "bQfdg",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
