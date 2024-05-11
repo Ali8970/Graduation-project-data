@@ -232,5 +232,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Cat carrier Villa",
+    "description": "Cat carrier Villa three-story oversized free space cat cage cat house cat house cat house cat litter cat climbing frame.",
+    "image": "ch9.jpg",
+    "inventoryStatus": "instock",
+    "category": "Homes",
+    "price": 666,
+    "quantity": 40,
+    "id": "VGjlt",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
