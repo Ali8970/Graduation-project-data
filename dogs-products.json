@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "category": "Foods",
+    "image": "p-5.jpg",
+    "name": "Cesar Wet Dog Food Chicken And Vegetables1",
+    "description": "Healthy, vital & fit: a source of dietary fibre to help maintain healthy digestion Made with Real Meat (100 gm)",
+    "inventoryStatus": "instock",
+    "price": 500,
+    "quantity": 200,
+    "id": "b1tQv",
+    "code": "wXWso",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
+  }
+]
