@@ -206,5 +206,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Rainforest Mist Bath Spray for Small Birds",
+    "image": "bath_spray_small_bird_1400x.avif",
+    "description": "Rainforest Mist bath spray can be used daily on the birds. Rainforest mist will cleanse your bird and relieve dry, itchy skin while helping to prevent feather plucking and.",
+    "inventoryStatus": "instock",
+    "category": "Care and cleanliness",
+    "price": 699,
+    "quantity": 90,
+    "id": "NKnun",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
