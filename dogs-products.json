@@ -131,5 +131,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "image": "rest-p-a-1.jpeg",
+    "name": "O-Ring Collar XL",
+    "description": "Collar is constructed with high quality 2mm reflective stitching nylon and high tensile force plastic fittings. The unique placement of the fully welded O-Ring allows for easy attachment for a leash. ID ring for attaching your pets identification  (2.5cm x 63-70cm)",
+    "category": "Accessories",
+    "inventoryStatus": "instock",
+    "price": 385,
+    "quantity": 50,
+    "id": "C3ZNk",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
