@@ -209,5 +209,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "image": "p-a-10.jpg",
+    "name": "Petty - Black Harness & Leash",
+    "description": "No pull & No choke Petty dog harness featured with 2 strong metal delta shape-rings on front and back for leash attaching, front clip prevent pulling and back for relaxed walking",
+    "inventoryStatus": "instock",
+    "category": "Accessories",
+    "price": 500,
+    "quantity": 45,
+    "id": "Gkrl5",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
