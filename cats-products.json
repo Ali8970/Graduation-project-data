@@ -206,5 +206,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Cat Tree Super Stable Cats",
+    "description": "AzzmaAii Cat Tree Super Stable Cats Tower House Furniture with Scratching Posts Hammock Cat Bed,Dangling Toy,Climber,Peek Holes,Jungle Extra Thick Plastic Tube,Comfortable Flannel (Brown).",
+    "image": "ch7.jpg",
+    "inventoryStatus": "instock",
+    "category": "Homes",
+    "price": 1199,
+    "quantity": 200,
+    "id": "Lcyi6",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
