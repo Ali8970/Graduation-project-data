@@ -40,5 +40,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "image": "p-4.jpg",
+    "name": "Pedigree Beef Can",
+    "description": "Pedigree recipes contain key essential nutrients with Soy oil and Zinc that help nourish your dog's skin (400 gm)",
+    "price": 500,
+    "category": "Foods",
+    "inventoryStatus": "instock",
+    "quantity": 200,
+    "id": "mwyMa",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
