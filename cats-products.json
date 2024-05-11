@@ -115,5 +115,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Purepet Real Chicken Adult Dry Cat Food, 7kg",
+    "description": "Enriched with Vitamins, Minerals and other nutrients promote the health benefits of cat.",
+    "image": "cf10.jpg",
+    "inventoryStatus": "instock",
+    "category": "Foods",
+    "price": 599,
+    "quantity": 500,
+    "id": "KAyHG",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
