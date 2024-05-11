@@ -118,5 +118,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "image": "p-10.jpg",
+    "price": 800,
+    "category": "Foods",
+    "inventoryStatus": "instock",
+    "name": "Piper with Carrot ",
+    "description": "Piper with Lamb, Carrot and Brown Rice (400g)",
+    "quantity": 50,
+    "id": "DFXlk",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
