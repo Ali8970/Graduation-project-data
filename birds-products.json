@@ -167,5 +167,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "oop-Off Brush Top",
+    "image": "clean1.jpg",
+    "description": "Poop-Off Bird Poop remover. 16 ounce. Brush Top. Non-toxic enzymatic cleaner. Non-toxic enzymatic cleaner. Perfectly safe for humans! No gloves are required! The special plastic attached brush has a control head that limits the amount of liquid dispensed and breaks down bird droppings as it cleans.",
+    "inventoryStatus": "instock",
+    "category": "Care and cleanliness",
+    "price": 199,
+    "quantity": 40,
+    "id": "aWslE",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
