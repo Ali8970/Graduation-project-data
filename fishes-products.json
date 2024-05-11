@@ -102,5 +102,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "TROPICAL POND MIX 1000ML/160g",
+    "image": "81DJLF6MA0L._AC_SL1500_.jpg",
+    "description": "POND MIX mixed foods for all pond fish. A unique food mix of tasty flakes, floating sticks, sinking granules, tablets, dried Gammarus pulex and shrimps for everyday feeding of all ornamental fish kept in garden ponds.",
+    "inventoryStatus": "instock",
+    "category": "Foods",
+    "price": 650,
+    "quantity": 150,
+    "id": "e95Y6",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
