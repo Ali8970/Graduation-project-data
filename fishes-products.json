@@ -453,5 +453,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Mermaid",
+    "image": "81SU3+4GaSS._AC_SL1500_.jpg",
+    "description": "The mermaid decors are suitable for decorating at the bottom of the water; They are suitable for family aquarium or fish tank.",
+    "inventoryStatus": "instock",
+    "category": "Accessories",
+    "price": 200,
+    "quantity": 50,
+    "id": "hw84I",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
