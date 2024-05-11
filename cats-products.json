@@ -76,5 +76,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Billi Kitten Real Chicken Cat Food 7 kg",
+    "description": "Billi food is a nutritionally balanced and complete kitten food. It is highly digestible and kitten love its great taste.",
+    "image": "cf7.jpg",
+    "inventoryStatus": "instock",
+    "category": "Foods",
+    "price": 650,
+    "quantity": 250,
+    "id": "12rut",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
