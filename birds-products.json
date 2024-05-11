@@ -193,5 +193,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Vet Aid Spray",
+    "image": "vet-aid-spray_1400x.webp",
+    "description": "Vet-Aid is a patented, veterinarian recommended, all natural skin irritation and wound care product for animals. Vet-Aid gently assists your pets natural healing process and helps ease discomfort.",
+    "inventoryStatus": "instock",
+    "category": "Care and cleanliness",
+    "price": 222,
+    "quantity": 50,
+    "id": "NWgdj",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
