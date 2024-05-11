@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "name": "Aquafin 3 natural fish food basic flakes 250 ml",
+    "description": "It contains 16 essential vitamins and 10 amino acids, which provide the balanced nutrition to the fish as per every day requirement.",
+    "image": "91J51crTY3S._AC_SL1500_.jpg",
+    "inventoryStatus": "instock",
+    "category": "Foods",
+    "price": 399,
+    "quantity": 100,
+    "id": "Tkmk2",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
+  }
+]
