@@ -492,5 +492,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "MQUPIN Puzzle Play Toy",
+    "image": "71k68i50azL._AC_SL1500_.jpg",
+    "description": "Interesting Bird Toys - parrot puzzle toys to meet the needs of pet birds. Natural wooden toys can exercise the intelligence of birds.",
+    "inventoryStatus": "instock",
+    "category": "Accessories",
+    "price": 99,
+    "quantity": 80,
+    "id": "Sxk0A",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
