@@ -1,17 +1,5 @@
 [
   {
-    "id": "2005",
-    "code": "d23nds42k",
-    "name": "Dog Bed",
-    "description": "Comfortable and plush dog bed for quality rest",
-    "image": "s-l1600.png",
-    "price": 415,
-    "category": "Homes",
-    "quantity": 25,
-    "inventoryStatus": "INSTOCK",
-    "rating": 5
-  },
-  {
     "id": "2006",
     "code": "a32fsd56c",
     "name": "Training Treats",
