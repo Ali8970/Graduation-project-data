@@ -11,5 +11,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Insecta Pro Insect Mix",
+    "description": "Insecta Pro is ideal for insect eating birds. Using the technology of food extrusion, Insecta pro incorporates the best protien from a range of sources to create a high specification food for birds.",
+    "image": "insecta-pro_1400x.webp",
+    "inventoryStatus": "instock",
+    "category": "Foods",
+    "price": 800,
+    "quantity": 50,
+    "id": "R2toC",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
