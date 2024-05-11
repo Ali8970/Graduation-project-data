@@ -362,5 +362,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "name": "Mikki Cat And Kitten Shampoo",
+    "description": "Kind to the skin with a gentle formula, Leaves your cat's coat feeling healthy and refreshed, Not for kittens under 8 weeks old or nursing queens.",
+    "image": "cc9.jpg",
+    "inventoryStatus": "instock",
+    "category": "Care and cleanliness",
+    "price": 199,
+    "quantity": 20,
+    "id": "KDHuz",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
