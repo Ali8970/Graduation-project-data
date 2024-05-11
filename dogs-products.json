@@ -378,5 +378,18 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
+  },
+  {
+    "image": "p-c-5.jpg",
+    "name": "Petty -Brush, (L) ",
+    "description": "Double layer of bristles to capture hairs from the undercoat & top coat in one stroke , Removes tangles and mats with ease and Anti scratch pins for your pets comfort (16 x 13 x 4 cm)",
+    "inventoryStatus": "instock",
+    "category": "Care and cleanliness",
+    "price": 230,
+    "quantity": 50,
+    "id": "HErUz",
+    "itemQuantity": 1,
+    "isFavorite": false,
+    "isAddedToCart": false
   }
 ]
