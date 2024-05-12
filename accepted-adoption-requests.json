@@ -32,5 +32,22 @@
       "description": "Nefertiti is a graceful and elegant dog with a sleek coat and large, expressive ears. She is intelligent and loyal, making her an ideal companion for active families.",
       "image_url": "cute-spitz.jpg"
     }
+  },
+  {
+    "id": "ClPop",
+    "fullname": "Ahmed Mohamed",
+    "address": "giza",
+    "phone_number": "01152839463",
+    "email": "user21@gmail.com",
+    "pet_information": {
+      "name": "Apollo",
+      "age": "1",
+      "species": "Bird",
+      "gender": "male",
+      "weight": "1",
+      "breed": " Parrot ",
+      "description": "Apollo's tale is as colorful as his feathers! This vibrant young bird found his way to J&R Aquatic Animal Rescue on April 16, 2024, from a distributor who deemed him \"imperfect\" due to his short tail. ",
+      "image_url": "bird2.jpg"
+    }
   }
 ]
