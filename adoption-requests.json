@@ -17,23 +17,6 @@
     }
   },
   {
-    "id": "R1ivq",
-    "fullname": "Menna Hassan",
-    "address": "Cairo-Nacer city",
-    "phone_number": "01176084512",
-    "email": "user13@gmail.com",
-    "pet_information": {
-      "name": "Cleo",
-      "age": "2",
-      "species": "Dog",
-      "gender": "male",
-      "weight": "12",
-      "breed": "Egyptian Greyhound",
-      "description": "Cleo is a sleek and athletic dog with a slender build and a graceful stride. She is full of energy and enjoys long runs and outdoor adventures. Cleo is also very affectionate and loves to cuddle.",
-      "image_url": "selective-focus-shot-adorable-golden-retriever-outdoors.jpg"
-    }
-  },
-  {
     "id": "084xq",
     "fullname": "Ahmed Mohamed",
     "address": "Cairo-Nacer city",
