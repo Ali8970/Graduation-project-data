@@ -11,5 +11,18 @@
       "email": "aliabdelftah104@gmail.com",
       "user_address": "giza"
     }
+  },
+  {
+    "id": "okSnn",
+    "image_url": "cute-spitz.jpg",
+    "pet_type": "dog",
+    "pet_address": "giza",
+    "message": "Great! Dogs are incredible creatures, each with their own unique personality and traits. Here's a general description:\nDogs are often considered man's best friend, and for good reason. They come in a wide variety of breeds, each with its own characteristics, size, and temperament. One of the most remarkable things about dogs is their loyalty.",
+    "user_information": {
+      "name": "Mohamed Ahmed",
+      "phone_number": "01122779933",
+      "email": "user1@gmail.com",
+      "user_address": "giza"
+    }
   }
 ]
