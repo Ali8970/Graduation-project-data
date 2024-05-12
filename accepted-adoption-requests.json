@@ -15,5 +15,22 @@
       "description": "Anubis is a loyal and energetic dog who enjoys long walks and playing fetch. He has a glossy black coat and a friendly disposition.",
       "image_url": "pexels-mark-glancy-721708-1564506.jpg"
     }
+  },
+  {
+    "id": "WSbvS",
+    "fullname": "Sama Hassan",
+    "address": "Cairo-Nacer city",
+    "phone_number": "01159832136",
+    "email": "user11@gmail.com",
+    "pet_information": {
+      "name": "Nefertiti",
+      "age": "2",
+      "species": "Dog",
+      "gender": "female",
+      "weight": "15",
+      "breed": "Egyptian Pharaoh Hound",
+      "description": "Nefertiti is a graceful and elegant dog with a sleek coat and large, expressive ears. She is intelligent and loyal, making her an ideal companion for active families.",
+      "image_url": "cute-spitz.jpg"
+    }
   }
 ]
