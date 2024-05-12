@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "id": "jU3UY",
+    "fullname": "Omar Ahemd",
+    "address": "giza",
+    "phone_number": "01222733232",
+    "email": "user26@gmail.com",
+    "pet_information": {
+      "name": "Nemo",
+      "age": "1",
+      "species": "Other",
+      "gender": "female",
+      "weight": "0.5",
+      "breed": "Amphiprion ocellaris",
+      "description": "Nemo is a vibrant male clownfish with distinctive orange and white stripes. He is very active and enjoys swimming among coral reefs. Nemo is easy to care for and is compatible with other peaceful fish species.",
+      "image_url": "pexels-mart-production-8434726.jpg"
+    }
+  }
+]
