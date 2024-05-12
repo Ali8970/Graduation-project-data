@@ -49,5 +49,22 @@
       "description": "Apollo's tale is as colorful as his feathers! This vibrant young bird found his way to J&R Aquatic Animal Rescue on April 16, 2024, from a distributor who deemed him \"imperfect\" due to his short tail. ",
       "image_url": "bird2.jpg"
     }
+  },
+  {
+    "id": "RkB87",
+    "fullname": "Hana Hassan",
+    "address": "Cairo-Nacer city",
+    "phone_number": "01198361031",
+    "email": "user12@gmail.com",
+    "pet_information": {
+      "name": "Sphinx",
+      "age": "3",
+      "species": "Dog",
+      "gender": "male",
+      "weight": "18",
+      "breed": "Egyptian Baladi",
+      "description": "Sphinx is a friendly and affectionate dog with a distinctive brindle coat. He is gentle and loves to play fetch in the park. Sphinx gets along well with children and other pets.",
+      "image_url": "friendly-smart-basenji-dog-giving-his-paw-close-up-isolated-white.jpg"
+    }
   }
 ]
