@@ -83,5 +83,22 @@
       "description": "Bella is a gentle and affectionate Golden Retriever. She enjoys swimming and spending time outdoors with her family. She's also very obedient and eager to please.",
       "image_url": "pexels-hoy-605262-1390784.jpg"
     }
+  },
+  {
+    "id": "65woL",
+    "fullname": "Ahmed Ali",
+    "address": "giza",
+    "phone_number": "01143568742",
+    "email": "user16@gmail.com",
+    "pet_information": {
+      "name": "Whiskers",
+      "age": "2",
+      "species": "Cat",
+      "gender": "female",
+      "weight": "5",
+      "breed": "Domestic Shorthair",
+      "description": "Whiskers is a playful and affectionate domestic shorthair cat. He loves chasing toys and curling up in warm spots for naps. Whiskers gets along well with other cats and enjoys being around people.",
+      "image_url": "pexels-peng-louis-587527-1643457.jpg"
+    }
   }
 ]
