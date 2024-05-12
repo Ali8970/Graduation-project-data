@@ -34,23 +34,6 @@
     }
   },
   {
-    "id": "ntc8h",
-    "fullname": "Mohamed youssef",
-    "address": "giza",
-    "phone_number": "01134821349",
-    "email": "user19@gmail.com",
-    "pet_information": {
-      "name": "Simba",
-      "age": "2",
-      "species": "Cat",
-      "gender": "female",
-      "weight": "16",
-      "breed": "Bengal",
-      "description": "Simba is an active and playful Bengal cat. He has a wild appearance with distinctive spots and a sleek coat. Simba loves interactive toys and enjoys exploring his environment. He's full of energy and curiosity.",
-      "image_url": "pexels-tatiana-azatskaya-3616232.jpg"
-    }
-  },
-  {
     "id": "awAjX",
     "fullname": "Hassan Ali",
     "address": "Cairo-Nacer city",
