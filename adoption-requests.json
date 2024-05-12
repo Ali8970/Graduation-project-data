@@ -32,22 +32,5 @@
       "description": "Luna is an elegant and vocal Siamese cat. She enjoys engaging in conversations with her owners and loves to be the center of attention. Luna is also very affectionate and enjoys cuddling.",
       "image_url": "cute-domestic-kitten-sits-window-staring-outside-generative-ai.jpg"
     }
-  },
-  {
-    "id": "awAjX",
-    "fullname": "Hassan Ali",
-    "address": "Cairo-Nacer city",
-    "phone_number": "01172436464",
-    "email": "user20@gmail.com",
-    "pet_information": {
-      "name": "Loyola",
-      "age": "1",
-      "species": "Bird",
-      "gender": "female",
-      "weight": "1",
-      "breed": "Dove  Pigeon",
-      "description": "Loyola is the perfect example of how pigeons inspire us every day with their bravery and resilience! Little Loyola was just a baby when she was found with one of her legs so badly injured that she needed emergency amputation surgery to save her life.",
-      "image_url": "bird1.jpeg"
-    }
   }
 ]
