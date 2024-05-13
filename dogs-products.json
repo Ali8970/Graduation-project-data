@@ -506,17 +506,5 @@
     "itemQuantity": 1,
     "isFavorite": false,
     "isAddedToCart": false
-  },
-  {
-    "image": "p-h-4.jpeg",
-    "name": "Ariika Pet Sofa Cover M 76*76*12 cm ",
-    "inventoryStatus": "instock",
-    "category": "Homes",
-    "price": 700,
-    "quantity": 30,
-    "id": "7CmhO",
-    "itemQuantity": 1,
-    "isFavorite": false,
-    "isAddedToCart": false
   }
 ]
