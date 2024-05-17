@@ -206,5 +206,31 @@
         "quantity": 3
       }
     ]
+  },
+  {
+    "order_id": "10007",
+    "user_info": {
+      "full_name": "Emma Garcia",
+      "shipping_address": "234 Cedar St, Hamlet, Country",
+      "phone_number": "01157082371"
+    },
+    "products": [
+      {
+        "id": "2001",
+        "name": "Dog Collar",
+        "category": "Accessories",
+        "image": "rd-reflective-martingale-dog-collar.jpg",
+        "price": 120,
+        "quantity": 2
+      },
+      {
+        "id": "5001",
+        "name": "Bird Seeds",
+        "category": "Foods",
+        "image": "bird-seeds.jpg",
+        "price": 10,
+        "quantity": 5
+      }
+    ]
   }
 ]
