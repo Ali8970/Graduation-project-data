@@ -128,5 +128,31 @@
         "quantity": 2
       }
     ]
+  },
+  {
+    "order_id": "10005",
+    "user_info": {
+      "full_name": "Sophia Miller",
+      "shipping_address": "567 Maple St, Hamlet, Country",
+      "phone_number": "01157082371"
+    },
+    "products": [
+      {
+        "id": "2002",
+        "name": "Cat Bed",
+        "category": "Accessories",
+        "image": "cat-bed.jpg",
+        "price": 50,
+        "quantity": 1
+      },
+      {
+        "id": "2003",
+        "name": "Pet Shampoo",
+        "category": "Grooming",
+        "image": "pet-shampoo.jpg",
+        "price": 20,
+        "quantity": 3
+      }
+    ]
   }
 ]
