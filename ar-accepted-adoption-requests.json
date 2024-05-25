@@ -8,7 +8,7 @@
         "pet_information": {
             "name": "أنوبيس",
             "age": "3",
-            "species": "كلب",
+            "species": "Dog",
             "gender": "أنثى",
             "weight": "18",
             "breed": "بلدي مصري",
@@ -25,7 +25,7 @@
         "pet_information": {
             "name": "نفرتيتي",
             "age": "2",
-            "species": "كلب",
+            "species": "Dog",
             "gender": "أنثى",
             "weight": "15",
             "breed": "كلب الصيد المصري",
@@ -42,7 +42,7 @@
         "pet_information": {
             "name": "أبولو",
             "age": "1",
-            "species": "طائر",
+            "species": "Bird",
             "gender": "ذكر",
             "weight": "1",
             "breed": "ببغاء",
@@ -59,7 +59,7 @@
         "pet_information": {
             "name": "سفينكس",
             "age": "3",
-            "species": "كلب",
+            "species": "Dog",
             "gender": "ذكر",
             "weight": "18",
             "breed": "بلدي مصري",
@@ -76,7 +76,7 @@
         "pet_information": {
             "name": "بيلا",
             "age": "3",
-            "species": "كلب",
+            "species": "Dog",
             "gender": "أنثى",
             "weight": "15",
             "breed": "جولدن ريتريفر",
@@ -93,7 +93,7 @@
         "pet_information": {
             "name": "عنخ",
             "age": "4",
-            "species": "كلب",
+            "species": "Dog",
             "gender": "أنثى",
             "weight": "18",
             "breed": "ماستيف مصري",
@@ -110,7 +110,7 @@
         "pet_information": {
             "name": "أوليفر",
             "age": "3",
-            "species": "قط",
+            "species": "Cat",
             "gender": "ذكر",
             "weight": "14",
             "breed": "مين كون",
@@ -127,7 +127,7 @@
         "pet_information": {
             "name": "سيمبا",
             "age": "2",
-            "species": "قط",
+            "species": "Cat",
             "gender": "أنثى",
             "weight": "16",
             "breed": "بنجال",
@@ -144,7 +144,7 @@
         "pet_information": {
             "name": "ليولا",
             "age": "1",
-            "species": "طائر",
+            "species": "Cat",
             "gender": "أنثى",
             "weight": "1",
             "breed": "حمامة",
@@ -161,7 +161,7 @@
         "pet_information": {
             "name": "سفينكس",
             "age": "3",
-            "species": "كلب",
+            "species": "Dog",
             "gender": "ذكر",
             "weight": "18",
             "breed": "بلدي مصري",
@@ -178,7 +178,7 @@
         "pet_information": {
             "name": "لونا",
             "age": "3",
-            "species": "قط",
+            "species": "Cat",
             "gender": "أنثى",
             "weight": "4",
             "breed": "سيامي",
@@ -195,7 +195,7 @@
         "pet_information": {
             "name": "ستاردست",
             "age": "1",
-            "species": "طائر",
+            "species": "Bird",
             "gender": "ذكر",
             "weight": "1",
             "breed": "براكيت",
@@ -212,7 +212,7 @@
         "pet_information": {
             "name": "ترتوغ",
             "age": "1",
-            "species": "أخرى",
+            "species": "Other",
             "gender": null,
             "weight": "12",
             "breed": "سلحفاة روسية",
@@ -229,7 +229,7 @@
         "pet_information": {
             "name": "سلحفاة 3",
             "age": "1",
-            "species": "أخرى",
+            "species": "Other",
             "gender": null,
             "weight": "6",
             "breed": "سلحفاة",
