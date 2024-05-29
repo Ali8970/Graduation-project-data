@@ -270,5 +270,21 @@
       "description": "Nemo is a vibrant male clownfish with distinctive orange and white stripes. He is very active and enjoys swimming among coral reefs. Nemo is easy to care for and is compatible with other peaceful fish species.",
       "image_url": "pexels-mart-production-8434726.jpg"
     }
+  },
+  {
+    "id": "YnySS",
+    "fullname": "Mahmoud Ali",
+    "address": "Cairo-Nacer city",
+    "phone_number": "01235326788",
+    "email": "user89@gmail.com",
+    "pet_information": {
+      "name": "Lovely",
+      "age": "3",
+      "species": "Dog",
+      "gender": "female",
+      "breed": "Egyption balady",
+      "description": "Lovely is a wonderful and beautiful dog looking for a warm and loving home. He is a Golden Retriever, one of the most beloved and popular breeds worldwide, known for their friendly and loyal nature.",
+      "image_url": "pexels-gilberto-reyes-259461-825947.jpg"
+    }
   }
 ]
