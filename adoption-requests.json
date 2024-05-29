@@ -17,23 +17,6 @@
     }
   },
   {
-    "id": "T0qFq",
-    "fullname": "Omar Mohamed",
-    "address": "Cairo-Nacer city",
-    "phone_number": "01524384652",
-    "email": "user27@gmail.com",
-    "pet_information": {
-      "name": "Bubbles",
-      "age": "1",
-      "species": "Other",
-      "gender": "female",
-      "weight": "0.3",
-      "breed": "Carassius auratus",
-      "description": "Bubbles is a graceful female goldfish with shimmering scales and a long, flowing tail. She enjoys exploring her tank and interacting with colorful decorations. Bubbles is a low-maintenance pet and brings a sense of tranquility to any environment.",
-      "image_url": "pexels-monstera-12660120.jpg"
-    }
-  },
-  {
     "id": "HpYeN",
     "fullname": "",
     "address": "",
