@@ -14,5 +14,21 @@
       "description": "بوسي هي قطة رائعة ولطيفة تبحث عن منزل محب وأبدى. تبلغ من العمر سنتين وتتمتع بصحة جيدة. بوسي تتميز بفراءها الناعم ولون عينيها الساحر، مما يجعلها جذابة للجميع.",
       "image_url": "pexels-peng-louis-587527-1643457.jpg"
     }
+  },
+  {
+    "id": "YnySS",
+    "fullname": "Mahmoud Ali",
+    "address": "Cairo-Nacer city",
+    "phone_number": "01235326788",
+    "email": "user89@gmail.com",
+    "pet_information": {
+      "name": "Lovely",
+      "age": "3",
+      "species": "Dog",
+      "gender": "female",
+      "breed": "Egyption balady",
+      "description": "Lovely is a wonderful and beautiful dog looking for a warm and loving home. He is a Golden Retriever, one of the most beloved and popular breeds worldwide, known for their friendly and loyal nature.",
+      "image_url": "pexels-gilberto-reyes-259461-825947.jpg"
+    }
   }
 ]
