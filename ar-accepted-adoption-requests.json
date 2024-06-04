@@ -236,21 +236,5 @@
       "description": "كان لديه بعض الأضرار القديمة في الصدفة عندما تم تسليمه لأول مرة ولكن تم تنظيفها بشكل جيد. ترتوغ لديه شهية كبيرة ويحب أن يكون له حظيرة في الهواء الطلق.",
       "image_url": "other2.jpg"
     }
-  },
-  {
-    "id": "96QNa",
-    "fullname": "على عبد الفتاح محمد علي",
-    "address": "اسنا",
-    "phone_number": null,
-    "email": "aliabdelftah104@gmail.com",
-    "pet_information": {
-      "name": "بوسي",
-      "age": "3",
-      "species": "Other",
-      "gender": "male",
-      "breed": "يبيب",
-      "description": "شيبشسيبسيلشسيبسشي",
-      "image_url": "pexels-lina-1741205.jpg"
-    }
   }
 ]
