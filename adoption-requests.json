@@ -1,18 +1,1 @@
-[
-  {
-    "id": "99o0M",
-    "fullname": "Ali Abd el fatah",
-    "address": "giza",
-    "phone_number": "01157082417",
-    "email": "",
-    "pet_information": {
-      "name": "Roky",
-      "age": "3",
-      "species": "Dog",
-      "gender": "female",
-      "breed": "yes",
-      "description": "dcvsdfgsefsgdfgs",
-      "image_url": "bella.png"
-    }
-  }
-]
+[]
