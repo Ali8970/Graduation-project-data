@@ -111,40 +111,5 @@
         "quantity": 1
       }
     ]
-  },
-  {
-    "id": "jQlmP",
-    "user_info": {
-      "full_name": "Ali Abd el fatah",
-      "shipping_address": "giza",
-      "phone_number": "01157082417",
-      "message": "sdad"
-    },
-    "products": [
-      {
-        "id": "9bW0X",
-        "name": "طعام الكلاب الجاف من بيديغري بالدجاج والخضروات",
-        "category": "Foods",
-        "image": "p-1.jpg",
-        "price": 600,
-        "quantity": 1
-      },
-      {
-        "id": "b1tQv",
-        "name": "طعام الكلاب الرطب سيزار",
-        "category": "Foods",
-        "image": "p-5.jpg",
-        "price": 500,
-        "quantity": 1
-      },
-      {
-        "id": "mwyMa",
-        "name": "طعام الكلاب المعلب بيديغري باللحم البقري",
-        "category": "Foods",
-        "image": "p-4.jpg",
-        "price": 500,
-        "quantity": 1
-      }
-    ]
   }
 ]
